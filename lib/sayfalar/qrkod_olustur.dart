@@ -187,17 +187,6 @@ class _QRCodeOlusturState extends State<QRCodeOlustur> {
                         {
                           print("Hasta bulunamadı");
                         }
-
-                        //qrCode = result.rawContent.toString()
-
-                        /*Navigator.of(context,
-                                                rootNavigator: true)
-                                            .push(CupertinoPageRoute(
-                                          //fullscreenDialog: true,
-                                          builder: (context) =>
-                                              HastaIslemleriSayfasi(),
-                                        ));*/
-
                       }
                     },
                     //child: Text("Demo Hasta: X8j05ltnM7dNiIpNlpnGAnpFC1U2 "),
@@ -220,7 +209,6 @@ class _QRCodeOlusturState extends State<QRCodeOlustur> {
 
                                 String taramaSonucu = result.rawContent;
                                // taramaSonucu = "vR7ouhZZThUH6nxvWD6JB9ODn8J3";
-
                                 if (taramaSonucu!="") {
                                   print("Tarama Sonucu hasta : "+ taramaSonucu);
                                   var hasta = await _userViewModel.readHasta(taramaSonucu).then((value) async {
