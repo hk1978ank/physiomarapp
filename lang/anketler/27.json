@@ -1,0 +1,672 @@
+{
+	"data":{
+		"id": 27,
+		"anket_adi": "Omuz Ağrı ve Disabilite İndeksi (SPADI)",
+		"aciklama":"Lütfen geçen hafta omuz probleminizi en iyi belirten puanı işaretleyin.",
+		"sorular": [
+			{
+				"style": 3,
+				"soru": "Ağrınızın en kötü hali",
+				"konu":"Ağrınız ne kadar şiddetlidir? 0=hiç ağrı yok 10=düşünülebilen en kötü ağrı",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Etkilenmiş taraf üzerine yatarken",
+				"konu":"Ağrınız ne kadar şiddetlidir? 0=hiç ağrı yok 10=düşünülebilen en kötü ağrı",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Yüksek raftaki bir şeye uzanırken",
+				"konu":"Ağrınız ne kadar şiddetlidir? 0=hiç ağrı yok 10=düşünülebilen en kötü ağrı",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Boynunuzun arkasına dokunurken",
+				"konu":"Ağrınız ne kadar şiddetlidir? 0=hiç ağrı yok 10=düşünülebilen en kötü ağrı",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Etkilenmiş kolla iterken",
+				"konu":"Ağrınız ne kadar şiddetlidir? 0=hiç ağrı yok 10=düşünülebilen en kötü ağrı",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Saçınızı yıkarken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Sırtınızı yıkarken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+						{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Atlet ya da kazak giyerken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Önden düğmeli gömlek giyerken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+						{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Pantolonunuzu giyerken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Yüksek bir rafa bir eşya koyarken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "4.5 kg'lık ağır bir eşyayı taşırken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Arka cebinizden bir şey çıkarırken",
+				"konu":"Ne kadar zorluk çekiyorsunuz? 0=hiç zorluk yok 10=aşırı zor, yardıma ihtiyaç duyuyor",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			}
+		]
+	}
+}

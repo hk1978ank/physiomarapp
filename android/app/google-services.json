@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "346999241715",
+    "firebase_url": "https://physiomarapp.firebaseio.com",
+    "project_id": "physiomarapp",
+    "storage_bucket": "physiomarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346999241715:android:f0a68ec2988d95c9453086",
+        "android_client_info": {
+          "package_name": "com.physiomar.physiomarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346999241715-doajsk3sk0jn5nn8sg0986p2gkvq5nm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.physiomar.physiomarapp",
+            "certificate_hash": "de280234a678d954a99daccaf6d6e1b434aa802a"
+          }
+        },
+        {
+          "client_id": "346999241715-f9rn0dp022cr1iimvdauousu0nqltgot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.physiomar.physiomarapp",
+            "certificate_hash": "2e5075b6e6696bcd6858ad3e2d5e34aca1c9053a"
+          }
+        },
+        {
+          "client_id": "346999241715-56vlbvo1dv4i4fsafq1dg8mci88tac33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1cIJJ_8U405MOw1RiENRhS1rxm1ppi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346999241715-56vlbvo1dv4i4fsafq1dg8mci88tac33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

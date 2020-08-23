@@ -1,0 +1,519 @@
+{
+        "id": 5,
+        "anket_adi": "BASFI",
+        "aciklama":"Sorularda belirtilen aktiviteleri ne ölçüde yapabildiğinizi göstermek için lütfen çizgi üzerinde sizi en iyi ifade ettiğini düşündüğünüz yeri işaretleyiniz.",
+        "sorular": [
+            {
+                "style": 3,
+                "soru": "Birisinden yardım almadan veya yardımcı araç kullanmadan, çorap veya tayt giymek",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Yardımcı bir araç kullanmadan yerden bir kalemi almak için, belden öne doğru eğilmek",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Herhangi bir yardım almadan veya yardımcı bir araç kullanmadan yüksek bir rafa uzanmak",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Ellerinizi kullanmadan veya başka bir yardım almadan, kolsuz bir sandalyeden kalkmak",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Sırt üstü yatarken yardım almadan yerden kalkmak",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Rahatsızlık duymadan 10 dakika süreyle desteksiz ayakta durmak",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Bir yürüme aracı veya merdiven tırabzanı kullanmadan 12-15 merdiven basamağını teker teker çıkmak",
+                "konu":"",
+                "secenekler": [
+                        {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Vücudunuzu döndürmeden omuzlarınızın üzerinden yanlara bakmak",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Bedensel güç isteyen aktiviteleri yapmak (örneğin, fizik tedavi egzersizleri, bahçe işleri veya spor)",
+                "konu":"",
+                "secenekler": [
+                        {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Tüm gün boyunca, evde veya işteki aktiviteleri yapmak",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            }
+        ]
+    }
+
+

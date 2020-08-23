@@ -1,0 +1,492 @@
+{
+	"data":{
+		"id": 7,
+		"anket_adi": "Beck Depresyon Ölçeği",
+		"aciklama":"Aşağıda 21 maddeden oluşan formda yazılı seçenekelri okuyunuz. Geçtiğimiz bir (1) hafta içindeki kendi ruh durumunuzu göz önünde bulundurarak size en çok uyan, yani sizin durumunuzu en iyi anlatan 'bir' ifadeyi işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "1",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kendimi üzüntülü ve sıkıntılı hissetmiyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Kendimi üzüntülü ve sıkıntılı hissediyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Hep üzüntülü ve sıkıntılıyım.",
+						"point": 2
+					},
+					{
+						"secenek": "O kadar üzüntülü ve sıkıntılıyım ki artık dayanamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "2",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Gelecekten umutsuz ve karamsar değilim.",
+						"point": 0
+					},
+					{
+						"secenek": "Gelecek için karamsarım.",
+						"point": 1
+					},
+					{
+						"secenek": "Gelecekten hiçbir şey beklemiiyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Geleceğimden umutsuzum ve sanki hiçbir şey düzelmeyecekmiş gibi geliyor.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "3",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kendimi başarısız bir insan olarak görmüyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Kendimi çevremdeki bir çok insandan daha başarısız hissediyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Geçmişime baktığımda başarısızlıklarla dolu olduğunu görüyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Kendimi tümüyle başarısız bir insan olarak görüyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "4",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Birçok şeyden eskisi kadar zevk alıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Her şeyden eskisi gibi hoşlanmıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Artık hiçbir şey tam anlamıyla zevk vermiyor.",
+						"point": 2
+					},
+					{
+						"secenek": "Her şeyden sıkılıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "5",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Sağlığım beni fazla endişelendirmiyor. ",
+						"point": 0
+					},
+					{
+						"secenek": "Ağrı, sancı, mide bozukluğu veya kabızlık gibi rahatsızlıklar beni endişelendiriyor.",
+						"point": 1
+					},
+					{
+						"secenek": "Sağlık endişem nedeniyle başka şeyleri düşünmem zorlaşıyor.",
+						"point": 2
+					},
+					{
+						"secenek": "Sağlığımdan o kadar endişeliyim ki başka hiçbir şey düşünemiyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "6",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Bana cezalandırılmışım gibi geliyor.",
+						"point": 0
+					},
+					{
+						"secenek": "Cezalandırılabileceğimi seziyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Cezalandırılmayı bekliyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Cezalandırıldığımı hissediyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "7",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kendimden hoşnutum.",
+						"point": 0
+					},
+					{
+						"secenek": "Kendimden pek hoşnut değilim.",
+						"point": 1
+					},
+					{
+						"secenek": "Kendime kızıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Kendimden nefret ediyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "8",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Başkalarından daha kötü olduğumu sanmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Zayıf yanlarım ve hatalarımdan dolayı kendi kendimi eleştiririm.",
+						"point": 1
+					},
+					{
+						"secenek": "Hatalarımdan dolayı her zaman kendimi kabahatli bulurum.",
+						"point": 2
+					},
+					{
+						"secenek": "Her aksilik karşısında kendimi kabahatli bulurum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "9",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kendimi öldürmek gibi düşüncelerim yok.",
+						"point": 0
+					},
+					{
+						"secenek": "Zaman zaman kendimi öldürmeyi düşündüğüm oluyor.",
+						"point": 1
+					},
+					{
+						"secenek": "Kendimi öldürmek isterdim.",
+						"point": 2
+					},
+					{
+						"secenek": "Fırsatını bulsam kendimi öldürürdüm.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "10",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "İçimden her zamankinden daha fazla ağlamak gelmiyor.",
+						"point": 0
+					},
+					{
+						"secenek": "Zaman zaman içimden ağlamak geliyor.",
+						"point": 1
+					},
+					{
+						"secenek": "Çoğu zaman ağlıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Eskiden ağlayabilirdim şimdi istesemde ağlayamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "11",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Diğer insanlara karşı ilgimi kaybetmedim.",
+						"point": 0
+					},
+					{
+						"secenek": "Eskisine göre insanlarla daha az ilgiliyim.",
+						"point": 1
+					},
+					{
+						"secenek": "Diğer insanlara karşı ilgimin çoğunu kaybettim.",
+						"point": 2
+					},
+					{
+						"secenek": "Diğer insanlara karşı hiç ilgim kalmadı.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "12",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Şimdi her zaman olduğumdan daha sinirli değilim.",
+						"point": 0
+					},
+					{
+						"secenek": "Eskisine göre daha kolay kızıyor ve sinirleniyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Şimdi hep sinirliyim.",
+						"point": 2
+					},
+					{
+						"secenek": "Bir zamanlar beni sinirlendiren şeyler şimdi hiç sinirlendirmiyor.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "13",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Eskiden olduğu kadar kolay karar verebiliyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Eskiden olduğu kadar kolay karar veremiyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Karar verirken eskisine göre güçlük çekiyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Artık hiç karar veremiyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "14",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Aynaya baktığımda kendimde bir değişiklik görmüyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Daha yaşlanmışım ve çirkinleşmişim gibi hissediyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Görünümüm çok değiştiğini ve daha çirkinleştiğimi hissediyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Kendimi çok çirkin buluyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "15",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Eskisi kadar iyi çalışabiliyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Bir şeyler yapabilmek için gayret göstermem gerekiyor.",
+						"point": 1
+					},
+					{
+						"secenek": "Bir şeyler yapabilmek için kendimi çok zorlamam gerekiyor.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiçbir şey yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "16",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Her zamanki gibi uyuyabiliyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Eskiden olduğu gibi uyuyamıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Her zamankinden bir iki saat daha erken uyanıyorum ve yeniden uyuyamıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Her zamankinden çok daha erken uyanıyorum ve yeniden uyuyamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "17",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Her zamankinden daha çabuk yorulmuyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Her zamankinden daha çabuk yoruluyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Yaptığım her şey beni yoruyor.",
+						"point": 2
+					},
+					{
+						"secenek": "Kendimi hiçbir şey yapamayacak kadar yorgun hissediyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "18",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "İştahım her zamanki gibi.",
+						"point": 0
+					},
+					{
+						"secenek": "İştahım eskisi kadar iyi değil.",
+						"point": 1
+					},
+					{
+						"secenek": "İştahım çok azaldı.",
+						"point": 2
+					},
+					{
+						"secenek": "Artık hiç iştahım yok.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "19",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Son zamanlardxa kilo vermedim.",
+						"point": 0
+					},
+					{
+						"secenek": "İki kilodan fazla kilo verdim.",
+						"point": 1
+					},
+					{
+						"secenek": "Dört kilodan fazla kilo verdim.",
+						"point": 2
+					},
+					{
+						"secenek": "Altı kilodan fazla kilo verdim.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "20",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kendimi herhangi bir şekilde suçlu hissetmiyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Kendimi zaman zaman suçlu hissediyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çoğu zaman kendimi suçlu hissediyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Kendimi her zaman suçlu hissediyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "21",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Cinsel konulara olan ilgimde bir değişme fark etmedim.",
+						"point": 0
+					},
+					{
+						"secenek": "Cinsel konulara eskisinden daha az ilgiliyim.",
+						"point": 1
+					},
+					{
+						"secenek": "Cinsel konulara şimdi çok daha az ilgiliyim.",
+						"point": 2
+					},
+					{
+						"secenek": "Cinsel konulara olan ilgimi tamamen kaybettim",
+						"point": 3
+					}
+				]
+			}
+		]		
+	}
+}

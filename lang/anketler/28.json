@@ -1,0 +1,1084 @@
+{
+    "data":{
+        "id": 28,
+        "anket_adi": "Osteoporozda Yaşam Kalitesi Sorgulaması (QUALEFFO-41)",
+        "aciklama":"",
+        "sorular": [
+            {
+                "style": 1,
+                "soru": "Geçen hafta kaç kere sırt ağrınız oldu?",
+                "konu":"Ağrı",
+                "secenekler": [
+                    {
+                        "secenek": "Hiç olmadı",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Haftada bir gün yada daha az",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Haftada 2-3 gün",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Haftada 4-6 gün",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Hergün",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sırt ağrınız olduysa, gündüzleri bu ağrınız ne kadar sürdü?",
+                "konu":"Ağrı",
+                "secenekler": [
+                    {
+                        "secenek": "Hiç olmadı",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "1-2 saat",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3-5 saat",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "6-10 saat",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Bütüngün",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sırt ağrınızın, en kötü olduğu anki şiddeti ne kadardır?",
+                "konu":"Ağrı",
+                "secenekler": [
+                    {
+                        "secenek": "Sırt ağrısı yok",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hafif",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Şiddetli",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Dayanılmaz",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sırt ağrınız diğer zamanlarda nasıldı?",
+                "konu":"Ağrı",
+                "secenekler": [
+                    {
+                        "secenek": "Sırt ağrısı yok",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hafif",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Şiddetli",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Dayanılmaz",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sırt ağrınız geçen hafta uykunuzu bozdu mu? ",
+                "konu":"Ağrı",
+                "secenekler": [
+                    {
+                        "secenek": "Haftada birden az",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Haftada bir kez",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Haftada iki kez",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Günaşırı",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Her gece",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Giyinirken sorun yaşar mısınız?",
+                "konu":"Günlük Yaşam Aktiviteleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorluk yok",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorluk var",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorluk var",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Biraz yardım gerekebilir",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Yardım olmadan olanaksız",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Banyo yapma ya da duş alma ile ilgili sorunlarınız var mı?",
+                "konu":"Günlük Yaşam Aktiviteleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorluk yok",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorluk var",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorluk var",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Biraz yardım gerekebilir",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Yardım olmadan olanaksız",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Tuvalete giderken veya kullanırken sorunlarınız var mı? ",
+                "konu":"Günlük Yaşam Aktiviteleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorluk yok",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorluk var",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorluk var",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Biraz yardım gerekebilir",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Yardım olmadan olanaksız",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Rahat uyur musunuz?",
+                "konu":"Günlük Yaşam Aktiviteleri",
+                "secenekler": [
+                    {
+                        "secenek": "Rahat uyurum",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Arasıra uyanırım",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Aıklıkla uyanırım",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Bazen saatlerce uyanık kalırım",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Bazen tüm geceyi uykusuz geçiririm",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Temizlik yapabiliyor musunuz?",
+                "konu":"Ev İşleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Yemekleri hazırlayabiliyor musunuz?",
+                "konu":"Ev İşleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Bulaşıkları yıkayabiliyor musunuz?",
+                "konu":"Ev İşleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Günlük alışverişinizi yapabiliyor musunuz?",
+                "konu":"Ev İşleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Yaklaşık 10 kilo ağırlığında ki bir eşyayı kaldırıp 100 metre kadar taşıyabilir misiniz? (örneğin, içinde 12 süt şişesi olan bir kasa veya bir yaşındaki bir çocuk)",
+                "konu":"Ev İşleri",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sandalyeden kalkabiliyor musunuz?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Sadece yardımla",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Öne eğilebiliyor musunuz?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Kolaylıkla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Kolay",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok az",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Çömelebiliyor musunuz?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Kolaylıkla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Nispeten kolay",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok az",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Bir evin üstkatına olan merdivenini çıkabiliyor musunuz?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "En az bir defa dinlenerek",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Sadece yardımla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "100 metre kadar yürüyebilir misiniz?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Hiç durmadan hızlıca",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hiç durmadan yavaşça",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "En az bir defa durarak",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Sadece yardımla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Mümkün değil",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen hafta sokağa ne kadar sık çıktınız?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Her gün",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Haftada 5-6 gün",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Haftada 3-4 gün",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Haftada 1-2 gün",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Haftada bir kereden az",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Toplu taşıma araçlarına binebiliyor musunuz?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Zorlanmadan",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz zorlukla",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede zorlukla",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Büyük zorlukla",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Sadece yardımla",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Osteoporoza bağlı olarak vücudunuzun şeklinde değişiklikler oldu mu? (Boy kısalması, belinizin kalınlaşması, sırt şekliniz gibi)?",
+                "konu":"Mobilite",
+                "secenekler": [
+                    {
+                        "secenek": "Hiç olmadı",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Orta derecede",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Oldukça",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Çok fazla",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Şu anda herhangi bir spor yapıyor musunuz?",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Evet ama kısıtlı",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Hiç",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Kendi bahçe işlerinizi yapabiliyor musunuz?",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Evet ama kısıtlı",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Hiç",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Soru geçerli değil",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Şu anda herhangi bir hobiniz var mı?",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Evet ama kısıtlı",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Hiç",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sinema, tiyatro vb. yerlere gidebiliyor musunuz (bedeni olarak sizi engelleyen durum var mı)?",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Evet ama kısıtlı",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Hiç",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Yakınımda sinema ya da tiyatro yok",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Son üç aydır arkadaşlarınız ya da akrabalarınızı ne kadar sık ziyaret ettiniz?",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Haftada bir kez ya da daha fazla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ayda 1-2 kez",
+                        "point": 2.3
+                    },
+                    {
+                        "secenek": "Ayda bir kezden az",
+                        "point": 3.6
+                    },
+                    {
+                        "secenek": "Hiç",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Son üç ayda sosyal aktivitelere hangi sıklıkta katıldınız? (dernek, sosyal ve dini toplantılar vb.)",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Haftada bir kez ya da daha fazla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ayda 1-2 kez",
+                        "point": 2.3
+                    },
+                    {
+                        "secenek": "Ayda bir kezden az",
+                        "point": 3.6
+                    },
+                    {
+                        "secenek": "Hiç",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Sırt ağrınız özel hayatınızla ilgili zorluklara neden oluyor mu? (Cinsel aktiviteler dahil)",
+                "konu":"Boş zaman, sosyal aktiviteler",
+                "secenekler": [
+                    {
+                        "secenek": "Hiç",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Biraz",
+                        "point": 2.3
+                    },
+                    {
+                        "secenek": "Orta derecede",
+                        "point": 3.6
+                    },
+                    {
+                        "secenek": "Ciddi derecede",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Soru geçerli değil",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Genel olarak, yaşınıza göre sağlığınızın nasıl olduğunu söyleyebilirsiniz?",
+                "konu":"Genel Sağlık Değerlendirmesi",
+                "secenekler": [
+                    {
+                        "secenek": "Mükemmel",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "İyi",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "İdare ediyor",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Pek iyi değil",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Kötü",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen hafta içindeki genel yaşam kalitenizi nasıl derecelendirirsiniz (genel ahvaliniz v.s.)?",
+                "konu":"Genel Sağlık Değerlendirmesi",
+                "secenekler": [
+                    {
+                        "secenek": "Mükemmel",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "İyi",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "İdare ediyor",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Pek iyi değil",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Kötü",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Genel yaşam kalitenizi 10 yıl öncesiyle kıyaslarsanız nasıl derecelendirirsiniz?",
+                "konu":"Genel Sağlık Değerlendirmesi",
+                "secenekler": [
+                    {
+                        "secenek": "Şimdi çok daha iyi",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Şimdi biraz daha iyi",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Değişiklik yok",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Şimdi biraz daha kötü",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Şimdi çok daha kötü",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Kendinizi yorgun hisseder misiniz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Sabahları",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Öğleden sonraları",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Sadece akşamları işlerden sonra",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Yorucu",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hemen hemen hiçbir zaman",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Kendinizi mutsuz hisseder misiniz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hemen hemen her gün",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Haftada 3-5 gün",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Haftada 1-2 gün",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Bir kez kısa süreli",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hemen hemen hiçbir zaman",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Kendinizi yalnız hisseder misiniz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hemen hemen her gün",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Haftada 3-5 gün",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Haftada 1-2 gün",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Bir kez kısa süreli",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hemen hemen hiçbir zaman",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Kendinizi zinde hisseder misiniz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hemen hemen her gün",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Haftada 3-5 gün",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Haftada 1-2 gün",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Bir kez kısa süreli",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Hemen hemen hiçbir zaman",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geleceğinizden ümitli misiniz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Nadiren",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Her zaman",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Ufak tefek şeylere üzülür müsünüz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Nadiren",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Her zaman",
+                        "point": 5
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "İnsanlarla kolay ilişki kurabiliyor musunuz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Nadiren",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Her zaman",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Günün çoğunda iyimser bir ruh halinde misiniz? ",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "Nadiren",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Her zaman",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Tamamen başkalarına bağımlı kalmaktan (elden, ayaktan düşmekten) korkuyor musunuz?",
+                "konu":"Zihinsel fonksiyonlar",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Nadiren",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "Her zaman",
+                        "point": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

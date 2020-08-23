@@ -1,0 +1,1001 @@
+{
+	"data":{
+		"id": 14,
+		"anket_adi": "Ferrans ve Powers Yaşam Kalitesi Ölçeği",
+		"aciklama":"Lütfen, aşağıdaki her bir madde için yaşamınızın o alanından ne derecede memnun olduğunuzu en iyi açıklayan cevabı kutucuğa işaret koyarak işaretleyiniz. Doğru ya da yanlış cevap yoktur. Aşağıdaki durumlardan ne kadar memnnunsunuz?",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Sağlığınızda?",
+				"konu":"?",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aldığınız sağlık hizmetinden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Günlük işleri yapmaya ayırabileceğiniz enerjiden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yardım almadan kişisel bakım yeterliliğinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kan şekerinizin düzeyini kontrol yeterliliğinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Diyet, egzersiz, insülin, hap, kan şeker ölçümü gibi diyabet nedeniyle yapmak zorunda olduğunuz değişikliklerden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaşamınız üzerinde sahip olduğunuz kontrol düzeyinden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dilediğiniz kadar uzun yaşama şansınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailenizin sağlığından?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çocuklarınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailenizin mutluluğundan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Cinsel yaşamınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eşinizden, sevgilinizden ya da partnerinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Arkadaşlarınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailenizden aldığınız duygusal destekten?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailesel sorumlulukları yerine getirme yeterliliğinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Başkalarına olan yararınızın miktarından?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaşamınızdaki endişelerin sayısından?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Komşularınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaşadığınız evden, apartmandan ya da yerden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çalışıyorsanız işinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çalışmıyor, emekli ya da engellilik nedeniyle işsiz iseniz bir işinizin olmamasından?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğitim düzeyinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğlenmek için yaptıklarınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Mutlu bir gelecek şansına sahip olduğunuzdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İç huzurunuzdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Allah'a olan inancınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kişisel hedeflerinize ulaşmanızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genel olarak mutluluğunuzdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genel olarak hayatınızdan?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kişisel görünümünüzden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genel olarak kendinizden?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç memnun değilim",
+						"point": -2.5	
+					},
+					{
+						"secenek": "Orta derecede memnun değilim",
+						"point": -1.5
+					},
+					{
+						"secenek": "Hafif derecede memnun değilim",
+						"point": -0.5
+					},
+					{
+						"secenek": "Hafif derecede memnunun",
+						"point": 0.5 
+					},
+					{
+						"secenek": "Orta derecede memnunun",
+						"point": 1.5 
+					},
+					{
+						"secenek": "Çok memnunun",
+						"point": 2.5 
+					}
+				]
+			}
+		]		
+	}
+}

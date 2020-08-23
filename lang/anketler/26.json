@@ -1,0 +1,684 @@
+{
+	"data":{
+		"id": 26,
+		"anket_adi": "Nottingham Sağlık Profili",
+		"aciklama":"Aşağıda insanların günlük hayatta karşılaşabilecekleri bazı problemler sıralanmıştır. Listeye bakınız ve  sahip olduğunuz problem için 'Evet', olmadığınız problem için 'Hayır' kutucuğuna işaretleyiniz. Lütfen her soruyu cevaplayınız. Emin değilseniz şu anda en doğru olduğunu düşündüğünüz cevabı işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Merdivenleri inerken ve çıkarken ağrım oluyor.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 5.83
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ayakta durduğum zaman ağrım oluyor.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 8.96
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Pozisyonumu değiştirirken ağrım oluyor.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 9.99
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Oturduğum zaman ağrım oluyor.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 10.49
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yürüdüğüm zaman ağrım oluyor.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 11.22
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Geceleri ağrım var.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 12.91
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dayanılmaz ağrılarım var",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 19.74
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sürekli ağrılar içindeyim.",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 20.86
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Olaylar beni zorluyor",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 10.47
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Beni neyin neşelendirdiğini bile unuttum.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 9.31
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi uçurumun kenarında hissediyorum.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 7.22
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Günler zor geçiyor.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 7.08
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bugünlerde sık sık hiddetleniyorum.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 9.76
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi kontrol edemeyeceğimi hissediyorum.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 13.99
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Endişelerim gece uyumama engel oluyor.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 13.95
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hayatın çekilmez olduğunu düşünüyorum.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 16.21
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Uyanınca kendimi depresyonda hissediyorum.",
+				"konu":"Duygusal Reaksiiyonlar",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 12.01
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Uyku ilacı alıyorum.",
+				"konu":"Uyku",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 22.37
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sabah erken saatte istemeden uyanıyorum.",
+				"konu":"Uyku",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 12.57
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gece uykum kaçıyor.",
+				"konu":"Uyku",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 27.36
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Uyumakta güçlük çekiyorum.",
+				"konu":"Uyku",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 16.10
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gece uykum çok kötü.",
+				"konu":"Uyku",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 21.70
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi yalnız hissediyorum.",
+				"konu":"Sosyal İzolasyon",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 22.01
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İnsanlarla ilişki kurmakta güçlük çekiyorum.",
+				"konu":"Sosyal İzolasyon",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 19.36
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi hiç kimseye yakın hissetmiyorum.",
+				"konu":"Sosyal İzolasyon",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 20.13
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İnsanlara yük olduğumu düşünüyorum.",
+				"konu":"Sosyal İzolasyon",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 22.53
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İnsanlarla geçinmek güç geliyor.",
+				"konu":"Sosyal İzolasyon",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 15.97
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yalnız ev içinde yürüyebiliyorum.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 11.54
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğilmek benim için çok zor.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 10.57
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hiç yürüyemiyorum.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 21.30
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdiven inip-çıkmakta zorlanıyorum.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 10.79
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bir yere uzanmakta güçlük çekiyorum.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 9.30
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Giyinirken zorlanıyorum.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 12.61
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Uzun süre ayakta duramıyorum.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 11.20
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sokakta yürümek için yardım gerekiyor.",
+				"konu":"Fiziksel Aktivite",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 12.69
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Enerjim kısa sürede tükeniyor.",
+				"konu":"Enerji",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 24.0
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Her şey çaba harcamamı gerektiriyor.",
+				"konu":"Enerji",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 36.80
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Her zaman yorgunum.",
+				"konu":"Enerji",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 39.20
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çalıştığınız işte",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yemek, temizlik, tamir gibi işlerde",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dışarı çıkmak, arkadaş ziyareti, sinema gibi sosyal faailiyetlerde",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Evdeki diğer insanlarla ilişkilerde",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Cinsel hayatınızda",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hobi gibi aktiviteler yapmakta",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tatil zamanlarında",
+				"konu":"Sağlık durumunuz nedeniyle aşağıdaki durumlarda problem yaşıyor musunuz?",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			}
+		]		
+	}
+}

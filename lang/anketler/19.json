@@ -1,0 +1,479 @@
+{
+	"data":{
+		"id": 19,
+		"anket_adi": "İnflamatuvar Romatizmal Hastalıklarda Korku Değerlendirme Anketi",
+		"aciklama":"Lütfen korku seviyenize en uygun numarayı işaretleyerek cevaplayın.",
+		"sorular": [
+			{
+				"style": 3,
+				"soru": "Daha önce çektiğim gibi acı çekmekten korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Hastalığımın hızlı ilerleyeceğinden korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Omurgamın veya bazı kemiklerimin birbirine kaynaşmasından korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Kendime bakamazsan bir yardım alamayacağından korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Günlük işlerimi yapamamaktan korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Engelli bir insanmışım gibi görülmekten korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Benim için hiçbir tedavinin işe yaramayacağı bir zamanın gelmesinden korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Hastalığım için aldığım tedavilerin yan etkilerinden korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Hastalığım için aldığın tedavilerin kansere yol açmasından korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Hastalığım için aldığım tedavilerin ilerde daha az etki göstermesinden korkuyorum",
+				"konu":"1=Hiç korkmuyorum 10=Çok fazla korkuyorum",
+				"secenekler": [
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			}
+		]
+	}
+}

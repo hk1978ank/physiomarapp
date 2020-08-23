@@ -1,0 +1,331 @@
+{
+	"data":{
+		"id": 18,
+		"anket_adi": "Hastane Anksiyete ve Depresyon Ölçeği",
+		"aciklama":"Her maddeyi okuyun ve son birkaç gününüzü göz önünde bulundurarak nasıl hissettiğinizi en iyi ifade eden yanıtın yanındaki kutuyu işaretleyin. Yanıtınız için çok düşünmeyin, aklınıza ilk gelen yanıt en doğrusu olacaktır.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Kendimi gergin 'patlayacak gibi' hissediyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0
+					},
+					{
+						"secenek": "Zaman zaman, bazen",
+						"point": 1
+					},
+					{
+						"secenek": "Bir çok zaman",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğu zaman",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eskiden zevk aldığım şeylerden hala zevk alıyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Aynı eskisi kadar",
+						"point": 0
+					},
+					{
+						"secenek": "Pek eskisi kadar değil",
+						"point": 1
+					},
+					{
+						"secenek": "Yalnızca biraz eskisi kadar",
+						"point": 2
+					},
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sanki kötü bir şey olacakmış gibi bir korkuya kapılıyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hayır, hiçt de öyle değil",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz ama beni pek endişelendirmiyor",
+						"point": 1
+					},
+					{
+						"secenek": "Evet ama çokta şiddetli değil",
+						"point": 2
+					},
+					{
+						"secenek": "Kesinlikle öyle ve oldukça da şiddetli",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gülebiliyorum ve olayların komik tarafını görebiliyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Her zaman olduğu kadar",
+						"point": 0
+					},
+					{
+						"secenek": "Şimdi pek o kadar değil",
+						"point": 1
+					},
+					{
+						"secenek": "Kesinlikle o kadar değil",
+						"point": 2
+					},
+					{
+						"secenek": "Artık hiç değil",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aklımdan endişe verici düşünceler geçiyor",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yalnızca bazen",
+						"point": 0
+					},
+					{
+						"secenek": "Zaman zaman, çok sık değil",
+						"point": 1
+					},
+					{
+						"secenek": "Bir çok zaman",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğu zaman",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi neşeli hissediyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çoğu zaman",
+						"point": 0
+					},
+					{
+						"secenek": "Bazen ",
+						"point": 1
+					},
+					{
+						"secenek": "Sık değil",
+						"point": 2
+					},
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Rahat rahat oturabiliyorum ve kendimi rahat hissediyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle",
+						"point": 0
+					},
+					{
+						"secenek": "Genellikle",
+						"point": 1
+					},
+					{
+						"secenek": "Sık değil",
+						"point": 2
+					},
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi sanki durgunlaşmış gibi hissediyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0
+					},
+					{
+						"secenek": "Bazen",
+						"point": 1
+					},
+					{
+						"secenek": "Çok sık",
+						"point": 2
+					},
+					{
+						"secenek": "Hemen hemen her zaman",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sanki içim pır pır ediyomuş gibi tedirginliğe kapılıyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0
+					},
+					{
+						"secenek": "Bazen",
+						"point": 1
+					},
+					{
+						"secenek": "Oldukça sık",
+						"point": 2
+					},
+					{
+						"secenek": "Çok sık",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dış görünüşüme ilgimi kaybettim",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Her zaman ki kadar özen gösteriyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Pek o kadar özen göstermeyebilirim",
+						"point": 1
+					},
+					{
+						"secenek": "Gerektiği kadar özen göstermiyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Kesinlikle",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi sanki hep bir şey yapmak zorundaymışım gibi huzursuz hissediyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç değil",
+						"point": 0
+					},
+					{
+						"secenek": "Çok fazla değil",
+						"point": 1
+					},
+					{
+						"secenek": "Oldukça fazla",
+						"point": 2
+					},
+					{
+						"secenek": "Gerçekten de çok fazla",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Olacakları zevkle bekliyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Her zaman olduğu kadar",
+						"point": 0
+					},
+					{
+						"secenek": "Herzamankinden biraz daha az",
+						"point": 1
+					},
+					{
+						"secenek": "Herzamankinden kesinlikle daha az",
+						"point": 2
+					},
+					{
+						"secenek": "Hemen hemen hiç",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aniden panik duygusuna kapılıyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman ",
+						"point": 0
+					},
+					{
+						"secenek": "Çok sık değil",
+						"point": 1
+					},
+					{
+						"secenek": "Oldukça sık",
+						"point": 2
+					},
+					{
+						"secenek": "Gerçekten de çok sık",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "iyi bir kitap televizyon ya da radyo programından zevk alabiliyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Sıklıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Bazen",
+						"point": 1
+					},
+					{
+						"secenek": "Pek sık değil",
+						"point": 2
+					},
+					{
+						"secenek": "Çok seyrek",
+						"point": 3
+					}
+				]
+			}
+        ]
+    }
+}

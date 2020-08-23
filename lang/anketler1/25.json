@@ -1,0 +1,513 @@
+{
+		"id": 25,
+		"anket_adi": "Nottingham Genişletilmiş Günlük Yaşam Aktiviteleri İndeksi",
+		"aciklama":"",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Dışarıda yürür müsünüz?",
+				"konu":"Hareket",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdiven çıkar mısınız?",
+				"konu":"Hareket",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Arabaya binip iner misiniz?",
+				"konu":"Hareket",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Engebeli yolda yürür müsünüz?",
+				"konu":"Hareket",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Karşıdan karşıya geçer misiniz?",
+				"konu":"Hareket",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Toplu taşıma araçlarına biner misiniz?",
+				"konu":"Hareket",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yemeğinizi kendiniz mi yersiniz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinize sıcak içecek yapar mısınız?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bir odadan diğerine sıcak içecek taşır mısınız?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bulaşıkları yıkar mısınız?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinize alıştıracak sıcak bir şeyler yapar mısınız?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dışarı çıktığınızda kendi paranızı idare edebiliyor musunuz?",
+				"konu":"Ev işleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ufak tefek çamaşırları yıkar mısınız?",
+				"konu":"Ev işleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ev işlerinizi yapabilir misiniz?",
+				"konu":"Ev işleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendi alışverişinizi yapar mısınız?",
+				"konu":"Ev işleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bütün çamaşırları yıkar mısınız?",
+				"konu":"Ev işleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gazete ya da kitap okur musunuz?",
+				"konu":"Boş zaman aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Telefon kullanabilir misiniz?",
+				"konu":"Boş zaman aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Mektup yazar mısınız?",
+				"konu":"Boş zaman aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dışarı çıkıp insanlarla görüşür müsünüz?",
+				"konu":"Boş zaman aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bahçenizle çiçek evcil hayvan bakımı ile uğraşır mısınız?",
+				"konu":"Boş zaman aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Araba kullanır mısınız?",
+				"konu":"Boş zaman aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Hiç yapamıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Yardım alarak yapabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Tek başıma zorlanarak",
+						"point": 2
+					},
+					{
+						"secenek": "Tek başıma kolayca yapıyorum",
+						"point": 3
+					}
+				]
+			}
+        ]
+    }

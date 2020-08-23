@@ -1,0 +1,387 @@
+{
+		"id": 9,
+		"anket_adi": "Dougados Fonksiyonel İndeks",
+		"aciklama":"",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Ayakkabılarını giyebiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Pantolon veya pijama giyebiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kazağını giyebiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Banyo küvetine girebiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ayakta 10 dakika durabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdivenle bir kaç çıkabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Koşabiliyor musun",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İskemleye oturabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İskemleden kalkabiliyor musun",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Otomobile binebiliyor musun",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yerden bir şey almak için eğilebiliyor musun",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çömelebiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatağa uzanabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatakta dönebiliyor musun",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendi başına yataktan kalkabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sırtüstü uyuyabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yüzükoyun uyuyabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İşini/ ev işini yapabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]	
+			},
+			{
+				"style": 1,
+				"soru": "Öksürüyor veya hapşırabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Derin nefes alabiliyor musun?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet, rahatlıkla",
+						"point": 0
+					},
+					{
+						"secenek": "Evet, fakat zorlukla",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 2
+					}
+				]
+			}
+        ]
+    }

@@ -1,0 +1,460 @@
+{
+    "data":{
+        "id": 17
+        ,
+        "anket_adi": "Geriatrik Depresyon Ölçeği",
+        "aciklama":"Geçen hafta kendinizi nasıl hissettiniz? Aşağıdaki sorulara en doğru cevapları veriniz.",
+        "sorular": [
+            {
+                "style": 2,
+                "soru": "Genel olarak hayatınızdan memnun musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Faaliyet ve ilgilerinizin çoğunu bıraktınız mı?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Hayatınızın anlamsız olduğunu düşünüyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sıklıkla canınız sıkkın mıdır?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Gelecekten ümitli misiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sizi rahatsız eden ve kafanızdan bir türlü atamadığınız düşünceler var mı?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Keyfiniz çoğu zaman yerinde midir?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sanki size kötü bir şey olacakmış gibi bir korku yaşıyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "kendinizi çoğu zaman mutlu hisseder misiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sıklıkla çaresiz hisseder misiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sıklıkla huzursuz ve yerinde duramaz olur musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Dışarı çıkıp değişik şeyler yapmaktansa evde kalmayı mı tercih edersiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Gelecekle ilgili olarak sık sık endişelenir misiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Bir çok kişiye göre daha fazla unutkanlığınız var mı?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Hayatta olmak sizin için güzel bir şey mi?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Çoğu zaman kederli ve üzgün müsünüz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Kendinizi oldukça değersiz buluyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Geçmişi düşünmek canınızı oldukça sıkıyor mu?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Hayat size oldukça heyecan verici geliyor mu?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Yeni bir şeylere kalkışmak size oldukça zor geliyor mu?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Gücünüz kuvvetiniz yerinde mi?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Durumunuz size ümitsiz geliyor mu?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Çoğu insanın sizden daha iyi durumda olduğunu düşünüyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Küçük şeyler canınızı sıkar mı?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sıklıkla ağlamaklı olur musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Dikkatinizi toplamakta güçlük çeker misiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Sabahları yataktan kalkmak çok zor geliyor mu?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 0
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Başkaları ile birlikte olmayı eskisi gibi istiyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Kolayca karar verebiliyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            },
+            {
+                "style": 2,
+                "soru": "Eskisi kadar iyi düşünebiliyor musunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Evet",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Hayır",
+                        "point": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

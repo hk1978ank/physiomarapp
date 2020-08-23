@@ -1,0 +1,1029 @@
+{
+	"data":{
+		"id": 3,
+		"anket_adi": "Artritlerde Öz-Etkililik Ölçeği",
+		"aciklama":"Lütfen aşağıdaki her bir soruda belirtilen işleri düzenli ve zamanında yapabileceğinizden ne kadar emin olduğunuzu gösteren rakamı daire içine alınız. 1=Hiç emin değilim 10=Çok eminim",
+		"sorular": [
+			{
+				"style": 3,
+				"soru": "Ağrınızı önemli ölçüde azaltabileceğinizden ne kadar eminsiniz?",
+				"konu":"Ağrıda Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Günlük işlerinizin çoğunu sürdürebileceğinizden ne kadar eminsiniz?",
+				"konu":"Ağrıda Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Artrit/eklem ağrısının uykunuzu engelleyebilece inden ne kadar eminsiniz?",
+				"konu":"Ağrıda Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Daha fazla ilaç alma dışında, farklı yollarla artrit/eklem ağrınızı biraz daha azaltabileceğinizden ne kadar eminsiniz?",
+				"konu":"Ağrıda Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Daha fazla ilaç alma dışında, farklı yollarla artrit/eklem ağrınızı büyük ölçüde azaltabileceğinizden ne kadar eminsiniz?",
+				"konu":"Ağrıda Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Düz bir zeminde 30 metreyi 20 saniyede yürüyebileceğinizden ne kadar eminsiniz?",
+				"konu":"Ayak-Bacak fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "On basamaklı merdivenden 7 saniyede inebileceğinizden ne kadar eminsiniz?",
+				"konu":"Ayak-Bacak fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+						{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Ellerinizle destek almadan, kolçaksız bir sandalyeden hızla kalkabileceğinizden ne kadar eminsiniz?",
+				"konu":"Ayak-Bacak fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Başka birinin yardımı veya destekleyici herhangi bir araç olmadan bir arabaya binip inebileceğinizden ne kadar eminsiniz?",
+				"konu":"Ayak-Bacak fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+						{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Sırayla dizili orta büyüklükteki üç düğmeyi 12 saniyede ilikleyip tekrar çözebileceğinizden ne kadar eminsiniz?",
+				"konu":"El-Kol Fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "İki lokma büyüklüğündeki et parçasını bıçak ve çatalla 8 saniyede kesebileceğinizden ne kadar eminsiniz?",
+				"konu":"El-Kol Fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Kapı dışındaki ana musluğu sonuna kadar açıp kapatabileceğinizden ne kadar eminsiniz?",
+				"konu":"El-Kol Fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Sırtınızın üst kısmını, hem sağ hem de sol elinizle kaşıyabileceğinizden ne kadar eminsiniz?",
+				"konu":"El-Kol Fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Düğmelerini iliklemeden, önü açık, uzun kollu bir gömlek ya da bluzu 8 saniyede giyebileceğinizden ne kadar eminsiniz?",
+				"konu":"El-Kol Fonksiyonunda (işlevinde) Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Yorgunluğunuzu hafifletebileceğinizden ne kadar eminsiniz?",
+				"konu":"Diğer Belirtilerde Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Artritinizi artırmadan işlerinizi düzenleyebileceğinizden ne kadar eminsiniz?",
+				"konu":"Diğer Belirtilerde Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Kendinizi iyi hissetmediğinizde daha iyi hissetmek için bir şeyler yapabileceğinizden ne kadar eminsiniz?",
+				"konu":"Diğer Belirtilerde Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Kendinizi artritli diğer insanlarla karşılaştırdığınızda, günlük işlerinizi yaparken artrit/eklem ağrısının üstesinden gelebileceğinizden ne kadar eminsiniz?",
+				"konu":"Diğer Belirtilerde Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Hoşlandığınız şeyleri yapabilmek için artritin oluşturacağı rahatsızlıkların üstesinden gelebileceğinizden ne kadar eminsiniz?",
+				"konu":"Diğer Belirtilerde Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			},
+			{
+				"style": 3,
+				"soru": "Artritin sebep olduğu rahatsızlıklarla başa çıkabileceğinizden ne kadar eminsiniz?",
+				"konu":"Diğer Belirtilerde Öz-Etkililik Ölçeği",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			}
+		]
+	}
+}

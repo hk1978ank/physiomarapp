@@ -1,0 +1,115 @@
+{
+  "lang" : "Türkçe",
+  "yazicilar" : "Yazıcılar",
+
+  "kameradan_cek": "Kameradan Yeni Fotoğraf Çek",
+  "galeriden_sec": "Galeriden Seç",
+  "profil_resmini_nereden_yuklemek": "Profil resminizi nereden güncellemek istersiniz?",
+  "kullanicinizizi_guncellediniz" : "İşlem Başarılı. Sistemde yeni kullanıcı adınız görünecek...",
+  "kullanici_adinda_bir_degisiliklik_yapmadiniz" : "Kullanıcı adınızda herhangi bir değişiklik yapmadınız...",
+  "bu_kullanici_baska_kullanici_tarafindan_kullanilmaktadir":   "Üzgünüz. Bu kullanıcı başka biri tarafında kullanılmaktadır...",
+  "program_adi" : "Şafak Sayar - 2020",
+  "yeni_sinav_ekle": "Yeni Şafak Ekle",
+  "tamam": "Tamam",
+  "sinavlarim" : "Şafak",
+  "sinavlarim_ornek_baslik" : "Örnek Sayaç",
+  "duzenle" : "Düzenle",
+  "sohbet" : "QR Code",
+
+  "gun" : " Gün ",
+  "saat" : " Saat ",
+  "dakika" : " Dk ",
+  "saniye" : " sn ",
+  "oda" : "Sohbet Odası :",
+
+  "kalan_gun" : "Gün",
+  "kalan_saat" : "Kalan Saat",
+  "kalan_dakika" : "Kalan Dakika",
+  "kalan_saniye" : "Kalan Saniye",
+  "kalan_milisaniye" : "Kalan Milisaniye",
+  "milisaniyeyi_goster" : "Milisaniyeyi Göster",
+
+
+  "sinav_silme_islemi": "Şafak silme işlemi",
+  "bu_sinavi_silmek_istiyormusunuz" : " Bu Şafağı silmek istiyormusunuz?",
+  "sil" : "Sil",
+  "vazgec" : "Vazgeç",
+  "hata" : "Hata",
+
+  "sinaviniz_basarili_sekilde_silindi":"Şafağınız başarılı şekilde sildini",
+  "oturum_acma_sayfasina_git" : "Oturum Açma Sayfasına Git",
+  "kendi_sinavinizi_olusturabilmeniz" : "Şafak sayma modülü için giriş yapın",
+  "sinaviniz_silinir_iken_hata_olustu" : "Şafağınız silinirken hata oluştu...",
+
+  "sinav_islemleri" : "Şafak İşlemleri",
+  "sinav_adi" : "Ad Soyad",
+  "sohbet_oda_ismi" : "Şehir",
+  "gosterim_sirasi" : "Gösterim Sırası",
+  "sinav_tarihi" : "Şafak Tarihi",
+  "sinav_saati" : "Şafak Saati",
+
+  "sinav_tarihi_secmek_icin_tiklayin" : "Şafak Tarihi Seçmek için Tıklayın",
+  "sinav_saati_secmek_icin_tiklayin" : "Şafak Saati Seçmek için Tıklayın",
+
+  "kaydet" : "Kaydet",
+  "guncelle" : "Güncelle",
+  "genel" : "Genel",
+
+  "sinav_adini_yazmadiniz":  "Şafak Adı yazmadınız",
+  "sohbet_oda_ismi_bos_gecilemez": "Şehir ismi boş geçilemez",
+  "tarih_veya_saat_hatali":  "Tarih veya Saat Hatalı ",
+
+  "yardim_sinav_adi" : " Şafak sayma ekranında Şafağınızın görüneceği başlık kısmıdır. Şafak adını istediğinizi gibi girebilirsiniz.",
+  "yardim_gosterim_sirasi" : " Birden fazla Şafak takibi yapmak isterseniz,  Bu şafağın ekranında hangi sırada görüneceğini belirtiğiniz alandır. Bu alanı boş geçer iseniz \n otomatik olarak şafak tarihinize göre bir sıralama listesi oluşturulur. \n Kendi sıralamanızı oluşturabilmeniz için buraya sayısal bir değer giriniz. \n Unutmayın : En küçük girdiğiniz sayı ilk sırada gösterilir. Sıralama küçükten büyüğe doğrudur.",
+  "yardim_sohbet_odasi" : " Şehir ismi aynı zamanda diğer asker arkadaşlarınız sohbet edebileceğiniz ortak oda ismidir. (Yardım sayfası içeriği hazırlanıyor. Yeni versiyonda güncellenecektir.).",
+  "yardim_sinav_adi_yardim" : "Şafak Adı - Yardım",
+  "yardim_sohbet_odasi_yardim" : "Şehir - Yardım",
+  "yardim_gosterim_sirasi_yardim" : "Şafak Gösterim Sırası - Yardım",
+
+
+  "sinav_takvimi" : "Şafak Takvimi",
+  "siralama_yontemi": "Sıralama Yöntemi",
+  "tarihe_gore" : "Tarihe Göre",
+  "sinav_adina_gore" : "Şafak Adına Göre",
+  "cok_yakinda_guncellenecek": "Çok Yakında Güncellenecek",
+  "favoriye_ekle" : "Favariye Ekle",
+  "listeden_cikar" : "Listeden Çıkar",
+
+  "sohbet_odasi" : "Sohbet Odası",
+  "sohbet_hint_text" : "Şehir ismi giriniz",
+  "baglan" : "BAĞLAN",
+  "lutfen_bekleyin" : "Lütfen Bekleyin...",
+
+  "hata_olustu" : "Hata Oluştu",
+  "mesajinizi_yazin" : "Mesajınızı Yazın",
+  "mesaj_gonderebilmeniz_icin_oturum_acmaniz_gerekli" : "Mesaj Gönderebimeniz İçin Profil Sayfasından Oturum Açmanız Gerekli...",
+
+  "kullanici_girisi" : "Kullanıcı Girişi",
+  "kullanici_bilginiz" : "Kullanıcı Bilginiz",
+  "oturum_acin" : "Oturum Açın",
+
+  "google_ile_giris_yap" :  "Google ile Giriş Yap",
+  "facebook_ile_giris_yap" : "Facebook ile Giriş Yap",
+  "misafir_olarak_giris_yap" : "Misafir olarak oturum aç",
+
+  "cikis_yap" : "Çıkış",
+  "takma_isim" : "Takma İsim",
+  "bilgileri_guncelle" : "Bilgileri Güncelle",
+
+  "sinavlarim_menu" : "Şafaklar",
+  "sinavlar_menu" : "Sinavlar",
+  "sohbet_menu" : "QR Kodu",
+  "profil_menu" : "Profil",
+  "sayac_menu" : "Hızlı",
+
+
+  "sinaviniz_basarili_bir_sekilde_olusturuldu" : "Şafağınız başarılı bir şekilde oluşturuldu. Hayırlı teskereler  dileriz...",
+  "sinaviniz_basarili_bir_sekilde_guncellendi":"Şafağınız başarılı bir şekilde güncellendi.. Hayırlı teskereler dileriz...",
+  "uygulamayi_kaptmak_istiyormusunuz":"Uygulamayayı kapatmak istiyormusunuz?",
+
+  "uyari" : "Uyarı",
+  "evet" : "Evet",
+  "hayir" : "Hayır",
+  "son":"son"
+
+}

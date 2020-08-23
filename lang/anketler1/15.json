@@ -1,0 +1,1029 @@
+{
+		"id": 15,
+		"anket_adi": "Ferrans ve Powers Yaşam Kalitesi Ölçeği 2",
+		"aciklama":"Lütfen, aşağıdaki her bir madde için yaşamınızdaki bu bölümün sizin için ne kadar önemli olduğunu en iyi açıklayan cevabı kutucuğa işaret koyarak işaretleyiniz. Doğru ya da yanlış cevap yoktur. Aşağıdaki durumlar sizin için ne kadar önemli?",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Sağlığınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aldığınız sağlık hizmeti?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrısız olmak?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Günlük işleri yapmaya ayırabileceğiniz enerji?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yardım almadan kişisel bakım yeterliliğiniz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaşamınız üzerinde kontrole sahip olmanız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İstediğiniz kadar uzun yaşayabilmek?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailenizin sağlığı?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çocuklarınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailenizin mutluluğu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Cinsel hayat?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eşiniz, sevgiliniz ya da partneriniz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Arkadaşlarınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailenizden aldığınız duygusal destek?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aile dışı kişilerden aldığınız duygusal destek?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ailesel sorumlulukları yerine getirmek?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Başkalarına yararlı olmak?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kaygısız, endişesiz olmak?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Komşularınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaşadığınız ev, apartman veya yer?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çalışıyorsanız işiniz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çalışmıyor, emekli ya da engellilik nedeniyle işsiz iseniz bir işinizin olmaması?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğitim düzeyiniz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Parasal ihtiyaçlarınızı yönetebilmek?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğlenmek için yaptıklarınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Mutlu bir geleceğe sahip olmak?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İç huzurunuz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Allah'a olan inancınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kişisel hedeflerinize ulaşmanız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genel olarak mutluluğunuz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genel olarak hayatınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kişisel görünümünüz?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendiniz sizce ne kadar önemli?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Çok önemsiz",
+						"point": 1	
+					},
+					{
+						"secenek": "Orta derecede önemsiz",
+						"point": 2
+					},
+					{
+						"secenek": "Hafif derecede önemsiz",
+						"point": 3
+					},
+					{
+						"secenek": "Hafif derecede önemli",
+						"point": 4 
+					},
+					{
+						"secenek": "Orta derecede önemli",
+						"point": 5 
+					},
+					{
+						"secenek": "Çok önemli",
+						"point": 6 
+					}
+				]
+			}
+		]		
+	}

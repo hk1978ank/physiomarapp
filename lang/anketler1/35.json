@@ -1,0 +1,398 @@
+{
+		"id": 35,
+		"anket_adi": "Tampa Kinezyofobi Ölçeği",
+		"aciklama":"Lütfen, her soruda kendinize uygun olan kutucuğu işaretleyiniz (her soruda yalnızca bir kutucuğu işaretleyiniz). Teşekkür ederiz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Egzersiz yaparsam kendi kendimi sakatlarım diye kaygılanıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrımla baş etmeye çalışacak olsam, ağrım artar.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrımdan dolayı vücudum bana tehlikeli derecede yanlış giden bir şeyler olduğunu söylüyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Egzersiz yaparsam sanki ağrım hafifleyecek gibi geliyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İnsanlar benim tıbbi sorunlarımı yeterince ciddiye almıyorlar.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Başıma gelen bu olay nedeni ile vücudum hayat boyu risk altında olacak.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrımın olması her zaman, vücudumu sakatladığm/bir problemim olduğu anlamına gelir.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sırf bazı şeylerin ağrımı artırıyor olması, onların tehlikeli oldukları anlamına gelmez.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi kazara sakatlamaktan korkuyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrının artmasını engellemenin en basit ve güvenli yolu gereksiz hareketler yapmaktan kaçınmaktır.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Vücudumda tehlike arz eden bir şey olmasaydı, bu kadar çok ağrı hissetmezdim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrıma rağmen, fiziksel olarak aktif olsaydım, durumum daha iyi olurdu.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrı, kendimi sakatlamamam için egzersizi ne zaman bırakmam gerektiği konusunda bana sinyal verir.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Benim durumumda olan birinin, fiziksel olarak aktif olması pek güvenli değildir.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Normal insanların yaptığı her şeyi yapamam, çünkü çok kolay sakatlanırım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bazı şeyler çok fazla ağrıya neden olsa bile, bunların gerçekte tehlikeli olduklarını düşünmem.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hiç kimse ağrı hissederken egzersiz yapmak zorunda olmamalı.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 4
+					}
+				]
+			}
+        ]
+    }

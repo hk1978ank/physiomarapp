@@ -1,0 +1,467 @@
+{
+		"id": 34,
+		"anket_adi": "Sağlık Değerlendirme Anketi",
+		"aciklama":"Geçtiğimiz hafta boyunca yaptığınız günlük aktivitelerinizle ilgili olarak durumunuza en iyi uyan cevabı işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Ayakkabı bağlamak ve düğme iliklemek dahil, kendiniz giyinebiliyor musunuz?",
+				"konu":"Giyinip Kuşanma",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Saçınızı yıkayabiliyor musunuz?",
+				"konu":"Giyinip Kuşanma",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Düz bir sandalyeden kalkabiliyor musunuz?",
+				"konu":"Doğrulma",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatağa yatıp, kalkabiliyor musunuz?",
+				"konu":"Doğrulma",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Etinizi kesebiliyor musunuz?",
+				"konu":"Yemek Yeme",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dolu bir fincanı veya bardağı ağzınıza götürebiliyor musunuz?",
+				"konu":"Yemek Yeme",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yeni bir süt veya meyve suyu kutusunu açabiliyor musunuz?",
+				"konu":"Yemek Yeme",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dışarıda, düz bir zemin üzerinde yürüyebiliyor musunuz?",
+				"konu":"Yürüme",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Beş basamak merdiven çıkabiliyor musunuz?",
+				"konu":"Yürüme",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendi kendinize yıkanıp, kurulanabiliyor musunuz?",
+				"konu":"Hijyen",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Küvette banyo yapabiliyor musunuz?",
+				"konu":"Hijyen",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tuvalete oturup kalkabiliyor musunuz?",
+				"konu":"Hijyen",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Başınızın biraz üzerinde duran 2,5 kg ağırlığındaki bir nesneye (öreneğin şeker torbası gibi) uzanıp, nesneyi aşağıya indirebiliyor musunuz?",
+				"konu":"Uzanma",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğilip yerden bir giysiyi alabiliyor musunuz?",
+				"konu":"Uzanma",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Araba kapılarını açabiliyor musunuz?",
+				"konu":"Kavrama",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Daha önceden açılmış olan kavanoz kapaklarını açabiliyor musunuz?",
+				"konu":"Kavrama",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Muslukları açıp kapatabiliyor musunuz?",
+				"konu":"Kavrama",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Günlük işlere koşturup, alışveriş yapabiliyor musunuz?",
+				"konu":"Günlük İşler",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+                ]
+            },
+			{
+				"style": 1,
+				"soru": "Arabaya binip inebiliyor musunuz?",
+				"konu":"Günlük İşler",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yerleri süpürme veya bahçe işleri gibi günlük işleri yapabiliyor musunuz?",
+				"konu":"Günlük İşler",
+				"secenekler": [
+					{
+						"secenek": "Rahatça yapıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz zorlanarak yapıyorum.",
+						"point": 1
+					},
+					{
+						"secenek": "Çok zor yapıyorum.",
+						"point": 2
+					},
+					{
+						"secenek": "Hiç yapamıyorum.",
+						"point": 3
+					}
+				]
+			}
+        ]
+    }

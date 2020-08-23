@@ -1,0 +1,363 @@
+{
+	"data":{
+		"id": 38,
+		"anket_adi": "Yorgunluk Şiddet Ölçeği (FSS)",
+		"aciklama":"Bugün de dahil olmak üzere son bir hafta içinde ne derece yorgun olduğunuzu öğrenmek istiyoruz. Lütfen tüm ifadeleri dikkatlice okuyunuz. Size en uygun rakamın olduğu bölgeyi işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Yorgun olduğum zaman motivasyonum azalır",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Egzersiz yapmak beni yoruyor",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kolay yorulurum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk fiziksel fonksiyonumu etkiler",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk benim için sıklıkla problemlere neden olur",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluğum fiziksel fonksiyonumu sürdürmeme engel olur",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk belirli görev ve sorumluluklarımı yerine getirmemi etkiler",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk beni yetersiz bırakan en önemli üç şikayetten biridir",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+					
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk işimi, aile veya sosyal yaşantımı etkiler",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "0-Hiç katılmıyorum",
+						"point": 0
+					},
+					{
+						"secenek": "1-Kesinlikle katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "2-Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "3-Katılmama eğilimindeyim",
+						"point": 3
+					},
+					{
+						"secenek": "4-Kararsızım",
+						"point": 4
+					},
+					{
+						"secenek": "5-Katılma eğilimindeyim",
+						"point": 5
+					},
+					{
+						"secenek": "6-Katılıyorum",
+						"point": 6
+					},
+					{
+						"secenek": "7-Kesinlikle katılıyorum",
+						"point": 7
+					}
+					
+				]
+			}
+        ]
+    }
+}

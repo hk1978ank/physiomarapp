@@ -1,0 +1,478 @@
+{
+        "id": 12,
+        "anket_adi": "Düşme Etkinlik Ölçeği",
+        "aciklama":"1'in çok güvenirim, 10'un ise hiç güvenemem anlamına geldiği bir ölçekte, aşağıdaki aktiviteleri düşmeden gerçekleştirme konusunda kendinize ne kadar güvenirsiniz?",
+        "sorular": [
+            {
+                "style": 3,
+                "soru": "Banyo yapmak ya da duş almak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Raflara uzanmak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Ev içinde yürümek",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Ağır ya da sıcak nesneleri taşımayı gerektirmeyen yemekler hazırlamak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Yatağa girmek veya yataktan kalkmak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Kapı ya da telefron ziline yanıt vermek",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Sandalyeye oturmak ve sandalyeden kalkmak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Giyinmek veya soyunmak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Kişisel bakım (örn; yüzü yıkamak)",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Tuvalete girmek ve tuvaletten ayrılmak",
+                "konu":"1:Çok güvenirim / 10: Hiç güvenemem",
+                "secenekler": [
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            }
+        ]
+    }
+

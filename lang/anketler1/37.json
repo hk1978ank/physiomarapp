@@ -1,0 +1,655 @@
+{
+		"id": 37,
+		"anket_adi": "WOMAC Osteoartrit İndexi",
+		"aciklama":"Her aktivite için tek bir numarayı işaretleyin.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Düz zeminde yürümekle ağrı",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Ağrı Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Ağrı",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Ağrı",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Ağrı",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Ağrı",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdiven inip çıkmakla ağrı",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Ağrı Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Ağrı",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Ağrı",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Ağrı",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Ağrı",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gece yatakta ağrı",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Ağrı Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Ağrı",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Ağrı",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Ağrı",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Ağrı",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Oturmak veya uzanmakla ağrı",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Ağrı Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Ağrı",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Ağrı",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Ağrı",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Ağrı",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ayakta ddurmakla ağrı",
+				"konu":"Ağrı",
+				"secenekler": [
+					{
+						"secenek": "Ağrı Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Ağrı",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Ağrı",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Ağrı",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Ağrı",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sabah ilk yürüme sırasında sertlik",
+				"konu":"Sertlik",
+				"secenekler": [
+					{
+						"secenek": "Sertlik Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Sertlik",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Sertlik",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Sertlik",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Sertlik",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gün içinde oturma, uzanma, istirahat sonrası sertlik",
+				"konu":"Sertlik",
+				"secenekler": [
+					{
+						"secenek": "Sertlik Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Sertlik",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Sertlik",
+						"point": 2
+					},
+					{
+						"secenek": "Şiddetli Sertlik",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Şiddetli Sertlik",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdiven inme",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdiven çıkma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Otururken ayağa kalkma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ayakta durma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yere eğilme (çömelme)",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Düz zemin üzerinde yürüme",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Arabaya inme-binme",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Alışveriş yapma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çorap giyme",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çorap çıkartma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yataktan kalkma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatakta uzanma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Banyo küvetine girme-çıkma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Oturma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tuvalete girme-çıkma",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağır ev işleri",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hafif ev işleri",
+				"konu":"Fiziksel Fonksiyon",
+				"secenekler": [
+					{
+						"secenek": "Zorluk Yok",
+						"point": 0	
+					},
+					{
+						"secenek": "Hafif Zorluk",
+						"point": 1
+					},
+					{
+						"secenek": "Orta Derecede Zor",
+						"point": 2
+					},
+					{
+						"secenek": "Epey Zor",
+						"point": 3 
+					},
+					{
+						"secenek": "Çok Çok Zor",
+						"point": 4
+					}
+				]
+			}
+		]		
+	}

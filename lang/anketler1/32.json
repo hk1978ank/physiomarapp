@@ -1,0 +1,317 @@
+{
+		"id": 32,
+		"anket_adi": "Revize Oswestry Bel Ağrısı Engellilik Anketi",
+		"aciklama":"Bu test bel (veya bacak) yakınmanınızın günlük hayatınızı ne kadar etkilediği hakkında bilgi edinmek için tasarlanmıştır. Lütfen tüm bölümleri cevaplayınız. Her bir bölümde sizi en iyi ifade eden şıkkı işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Ağrı yoğunluğu",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ağrı gelip geçici ve çok hafif",
+						"point": 0
+					},
+					{
+						"secenek": "Ağrı çok hafif ve pek değişmiyor (artıp azalma olmuyor)",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrı gelip geçici ve orta şiddette",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrı orta şiddette ve pek değişmiyor (artıp azalma olmuyor)",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı gelip geçici ve şiddetli",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrı şiddetli ve pek değişmiyor (azalma olmuyor)",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kişisel bakım",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ağrıdan kaçınmak için yıkanma veya giyinme şeklinde değişiklik yapmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz ağrıya neden olsa da yıkanma ve giyinme şeklinde değişiklik yapmadım",
+						"point": 1
+					},
+					{
+						"secenek": "Yıkanma ve giyinmem ağrımı artırıyor, fakat bunları değiştirmeden idare ediyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Yıkanma ve giyinmem ağrımı artırıyor, bu yüzden bunları yapma şeklimde değişiklik yaptım",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı nedeniyle bazı yıkanma ve giyinme işlerini yardım almadan yapamıyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrı nedeniyle yıkanma ve giyinmeyi yardımsız yapamıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yük kaldırma",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ağır yükleri ağrım olmadan kaldırabiliyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "Ağır yükleri kaldırabiliyorum ama bu bir miktar ağrıya yol açıyor",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrı yerden ağır yükleri kaldırmama engel oluyor",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrı ağır yükleri kaldırmama engel oluyor ama masaüstünde gibi uygun bir pozisyondaysalar kaldırabiliyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı ağır yükleri kaldırmama engel oluyor ama masaüstünde gibi uygun bir pozisyondaysalar hafif veya orta ağırlıkdaki nesneleri kaldırabiliyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Sadece çok hafif yükleri kaldırabiliyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yürüme",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yürürken ağrım yok    ağrım da artma olmadan yürüyebildiğim bir mesafe yok yürüyünce ağrım artıyor",
+						"point": 0
+					},
+					{
+						"secenek": "Yürümeyle biraz ağrım var, fakat yürüme mesafesi arttıkça ağrı da artmıyor",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrımda belirgin artma olmaksızın 1,6 km’den (1 mil) fazla yürüyemiyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrımda belirgin artma olmaksızın 800 metreden fazla yürüyemiyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrımda belirgin artma olmaksızın 400 metreden fazla yürüyemiyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrımda artma olmadan yürüyebildiğim bir mesafe yok (Yürüyünce ağrım artıyor)",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Oturma",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Herhangi bir sandalyede istediğim kadar uzun oturabilirim", 
+						"point": 0
+					},
+					{
+						"secenek": "Sadece uygun bir sandalyede istediğim kadar uzun oturabilirim",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrı 1 saatten uzun oturmama engel oluyor",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrı yarım saatten uzun oturmama engel oluyor",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı 10 dakikadan uzun oturmama engel oluyor",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrımı direkt olarak artırdığı için oturmaktan kaçınıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ayakta durma",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ağrısız olarak istediğim süre ayakta kalabilirim",
+						"point": 0
+					},
+					{
+						"secenek": "Ayakta durmakla biraz ağrım oluyor, fakat bu zamanla artmıyor",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrıda artış olmadan 1 saatten uzun süre ayakta kalamam",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrıda artış olmadan yarım saatten uzun süre ayakta kalamam",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrıda artış olmadan 10 dakikadan uzun süre ayakta kalamam",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrımı direk olarak artırdığı için ayakta durmaktan kaçınıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Uyku",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yataktayken ağrısızım",
+						"point": 0
+					},
+					{
+						"secenek": "Yataktayken ağrım olur ama bu durum iyi bir uyku çekmeme engel olmaz",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrı yüzünden uyuduğum süre normalde uyuduğum sürenin (1/4’ünden) 4'te 1'inden daha az azaldı",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrı yüzünden uyuduğum süre normalde uyuduğum sürenin yarısından daha az azaldı",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı yüzünden uyuduğum süre normalde uyuduğum sürenin (3/4’ünden) 4'te 3'ünden daha az azaldı",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrılar hiç uyutmuyor",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sosyal hayat",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Sosyal hayatım normaldir ve fazladan ağrıya neden olmaz",
+						"point": 0
+					},
+					{
+						"secenek": "Sosyal hayatım normaldir ancak ağrımın miktarını artırır",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrı dans etmek gibi daha fazla hareket gerektiren aktivitelerimi kısıtlamak dışında sosyal yaşamımda belirgin etki yaratmıyor",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrı sosyal yaşamımı kısıtlıyor, bu nedenle çok sık dışarıya çıkamıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı aile içi yaşamımı da kısıtlıyor",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrı nedeniyle çok kısıtlı bir sosyal hayatım kaldı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Seyahat",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Seyahat sırasında ağrım olmaz",
+						"point": 0
+					},
+					{
+						"secenek": "Seyahat sırasında biraz ağrım olur ama her zamanki seyahat yöntemlerim ağrımı kötüleştirmez",
+						"point": 1
+					},
+					{
+						"secenek": "Seyahat sırasında ağrım artıyor ama her zamanki seyahat yöntemlerini değiştirmeye zorlamıyor",
+						"point": 2
+					},
+					{
+						"secenek": "Seyahat sırasında ağrım artıyor ve her zamanki seyahat yöntemimi değiştirmeye zorluyor",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrı tüm seyahat yöntemlerini kullanmama engel oluyor",
+						"point": 4
+					},
+					{
+						"secenek": "Yatarak seyahat dışında, ağrı tüm seyahat yöntemlerini kullanmama engel oluyor",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrı miktarındaki değişim",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ağrım hızla düzelir",
+						"point": 0
+					},
+					{
+						"secenek": "Ağrım dalgalanma (artıp azalma) gösterir ama genel olarak düzelme eğilimindedir",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrım düzeliyor gibi ama bu iyileşme yavaştır",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrım ne düzeliyor ne de kötüye gidiyor",
+						"point": 3
+					},
+					{
+						"secenek": "Ağrım kademe kademe kötüye gidiyor",
+						"point": 4
+					},
+					{
+						"secenek": "Ağrım hızlı kötüleşiyor",
+						"point": 5
+					}
+				]
+			}
+        ]
+    }

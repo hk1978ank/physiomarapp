@@ -1,0 +1,1060 @@
+{
+		"id": 29,
+		"anket_adi": "Parkinson Hastalığı Anketi",
+		"aciklama":"Son bir ay içerisinde Parkinson Hastalığı nedeniyleaşağıdakileri hangi sıklıkla yaşadınız?",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Eskiden boş vakitte yapmaktan hoşlandığınız şeyleri yapmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tamirat, ev işleri, yemek pişirme gibi işleri yapmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Alışveriş çantalarını taşımakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaklaşık 1km yürürken güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaklaşık 100m yürürken güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ev dışında istediğiniz gibi dolaşmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Toplum içine çıkmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dışarı çıktığınızda başka birinin yardımına gerek duydunuz mu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Toplum içinde düşeceğinizden korktunuz ya da endişelendiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İstediğinizden daha fazla eve bağlı kaldınız mı?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yıkanmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Giyinmekte güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Düğme iliklemek ya da ayakkabı bağlamakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Okunaklı yazı yazamakta zorluk çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yiyecekleri kesmekte güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İçecekleri dökmeden tutmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinizi kederli hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinizi terkedilmiş ve yalnız hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinizi ağlamaklı hissettiniz mi ya da ağladınız mı?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinizi kızgın ya da huysuz hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendinizi endişeli hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Geleceğinzle ilgili endişeleriniz oldu mu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Parkinson hastalığınızı başkalarından gizlemek zorunda hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Toplum içinde bir şey yemek ya da içmekten kaçındınız mı?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Toplum içindeyken Parkinson hastalığınız nedeniyle utanç duydunuz mu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Diğer insanlarınsize göstereceği tepki nedeniyle endişelendiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yakın kişisel ilişkilerinizde zorluk çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eşinizden gerektiği kadar destek almadığınızı hissettiniz mi? (yoksa 'yok' yazınız.) ",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aile ya da yakın arkadaşlarınızdan gerek duuyduğunuz desteği almadığınız oldu mu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gündüz ansızın uyuyakaldınız mı?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kitap okur ya da televizyon seyrederken dikkatinizi toplamakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hafızanızı zayıf hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kabus ya da uyanıkken hayaller gördünüz mü?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Konuşma güçlüğünüz oldu mu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İnsanlarla düzgün iletişim kurmakta güçlük çektiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İnsanlar tarafından göz ardı edildiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrılı kas krampı ya da kasılması geçirdiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eklemleriniz ya da bedeninizde ağrı ya da acı hissettiniz mi?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sizi rahatsız edecek kadar sıcak ya da soğuk hissettiniz mi? (hararet hissi/üşüme)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çoğunlukla",
+						"point": 3 
+					},
+					{
+						"secenek": "Her zaman",
+						"point": 4
+					}
+				]
+			}
+		]		
+	}

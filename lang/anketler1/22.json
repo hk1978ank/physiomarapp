@@ -1,0 +1,183 @@
+{
+		"id": 22,
+		"anket_adi": "Lawton &  Brody Enstrümantal Günlük Yaşam Aktiviteleri Ölçeği",
+		"aciklama":"Hastaya en çok uyan yanıtı işaretleyin. Formu hastanın kendisinden, yakınlarından ya da hastaya ait yakın tarihli kayıtlerdan yararlanarak doldurabilirsiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Telefon kullanabilme",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Telefonu rahatlıkla kullanabilir",
+						"point": 1
+					},
+					{
+						"secenek": "Birkaç iyi bilinen numarayı çevirebilir",
+						"point": 1
+					},
+					{
+						"secenek": "Telefona cevap verir ancak arayamaz",
+						"point": 1
+					},
+					{
+						"secenek": "Telefonu hiç kullanamaz",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Alışveriş",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Tüm alışverişini bağımsız olarak kendisi yapar",
+						"point": 1
+					},
+					{
+						"secenek": "Küçük alışverişlerini kendisi yapar",
+						"point": 0
+					},
+					{
+						"secenek": "Tüm alışverişlerinde yardıma ihtiyaç duyar",
+						"point": 0
+					},
+					{
+						"secenek": "Alışveriş yapamaz",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yemek hazırlama",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yeteri kadar yemeği planlar hazırlar ve servis edebilir",
+						"point": 1
+					},
+					{
+						"secenek": "Kullanılacak malzeme sağlanırsa yeteri kadar yemek hazırlayabilir",
+						"point": 0
+					},
+					{
+						"secenek": "Hazır yemeği ısıtır ve sunar veya yemek hazırlar ancak yeterli diyeti sağlayamaz",
+						"point": 0
+					},
+					{
+						"secenek": " Yemeklerin hazırlanması ve servis edilmesine ihtiyacı vardır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ev temizliği",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yalnız başına veya nadir destekle evin üstesinden gelir",
+						"point": 1
+					},
+					{
+						"secenek": "Bulaşık yıkama, yatak yapma gibi günlük hafif işleri yapabilir",
+						"point": 1
+					},
+					{
+						"secenek": "Günlük hafif işleri yapar ancak yeterli temizliği sağlayamaz",
+						"point": 1
+					},
+					{
+						"secenek": "Tüm ev idame işlerinde yardıma ihtiyaç gösterirr",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çamaşır",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kişisel çamaşırını tamamen kendisi yıkar",
+						"point": 1
+					},
+					{
+						"secenek": "Çorap, mendil gibi küçük malzemeleri yıkayabilir",
+						"point": 1
+					},
+					{
+						"secenek": "Tüm çamaşır işi başkaları tarafından halledilmek zorundadır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yolculuk",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Toplu taşıma araçlarından bağımsız olarak faydalanır veya kendi arabasını kullanır",
+						"point": 1
+					},
+					{
+						"secenek": "Taksiye biner toplu taşıma araçlarını kullanamaz",
+						"point": 1
+					},
+					{
+						"secenek": "Başkalarının yardımı ile toplu taşıma araçlarından faydalanabilir",
+						"point": 1
+					},
+					{
+						"secenek": "Yolculuğu başkalarının yardımı ile taksi veya otomobille sınırlıdır",
+						"point": 0
+					},
+					{
+						"secenek": "Yolculuk yapamaz",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İlaçlarını kullanabilme sorumluluğu",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "İlaçlarını zamanında ve belirtilen dozda alabilir",
+						"point": 1
+					},
+					{
+						"secenek": "İlaçları önceden farklı dozlarda hazırlanırsa düzenli kullanabilir",
+						"point": 0
+					},
+					{
+						"secenek": "İlaçlarını kendi başına düzenli kullanamaz",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Mali işler",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Bağımsız olarak tüm mali işlerin üstesinden gelebilir",
+						"point": 1
+					},
+					{
+						"secenek": "Günlük mali işlerini halleder ancak büyük mali işlerde ve banka işlerinde yardıma ihtiyaç gösterir",
+						"point": 1
+					},
+					{
+						"secenek": "Mali işleri takip edemez",
+						"point": 0
+					}
+				]
+			}
+        ]
+    }

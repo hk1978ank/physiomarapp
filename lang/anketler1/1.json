@@ -1,0 +1,386 @@
+{
+        "id": 1,
+        "anket_adi": "Algılanan Stres Ölçeği",
+        "aciklama":"Aşağıda geçtiğimiz ay içerisindeki kişisel deneyimleriniz hakkında bir dizi soru yöneltirmektedir. Her soruyu dikkatlice okuyarak size en uygun seçeneğin altındaki kutuya bir çarpı işareti koyarak cevaplayınız. Soruların doğru veya yanlış cevabı yoktur. Önemli olan sizin duygu ve düşüncelerinizi yansıtan yanıtları vermenizdir.",
+        "sorular": [
+            {
+                "style": 1,
+                "soru": "Geçen ay beklenmedik bir şeylerin olması nedeniyle ne sıklıkta rahatsızlık duydunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay hayatınızdaki önemli şeyleri kontrol edemediğinizi ne sıklıkta hissettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay kendinizi ne sıklıkta sinirli ve stresli hissettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay ne sıklıkta zorlukların üstesinden başarıyla geldiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay hayatınızda ortaya çıkan önemli değişikliklerle etkili bir şekilde başa çıktığınızı ne sıklıkta hissettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay kişisel sorunlarınızı ele alma yeteneğinize ne sıklıkta güven duydunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay her şeyin yolunda gittiğini ne sıklıkta hissettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay ne sıklıkta yapmanız gereken şeylerle başa çıkamadığınızı fark ettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay hayatınızdaki zorlukları ne sıklıkta kontrol edebildiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay ne sıklıkta her şeyin üstesinden geldiğinizi hissettiğiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay ne sıklıkta kontrolünüz dışında gelişen olaylar yüzünden öfkelendiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay kendinizi ne sıklıkta başarmak zorunda olduğunuz şeyleri düşünürken buldunuz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay ne sıklıkta zamanınızı nasıl kullanacağınızı kontrol edebildiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Geçen ay ne sıklıkta problemlerin üstesinden gelemeyeceğiniz kadar biriktiğini hissettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Neredeyse hiçbir zaman",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Bazen",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Oldukça sık",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "Çok sık",
+                        "point": 4
+                    }
+                ]
+            }
+        ]
+    }
+

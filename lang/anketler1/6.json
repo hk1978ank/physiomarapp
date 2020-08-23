@@ -1,0 +1,490 @@
+{
+		"id": 6,
+		"anket_adi": "Beck Anksite Ölçeği",
+		"aciklama":"Aşağıda insanların kaygılı ya da endişeli oldukları zamanlarda yaşadıkları bazı belirtiler verilmiştir. Lütfen her maddeyi dikkatle okuyunuz. Daha sonra, bugün dahil son bir (1) hafta içinde, aşağıda maddeler halinde sıralanmış belirtilerin sizi ne kadar rahatsız ettiğini uygun yeri işaretleyerek belirleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Bedeninizin herhangi bir yerinde uyuşma veya karıncalanma",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sıcak/ateş basmaları",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bacaklarda halsizlik, titreme",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gevşeyememe",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çok kötü şeyler olacak korkusu",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Baş dönmesi veya sersemlik",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kalp çarpıntısı",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dengeyi kaybetme duygusu",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dehşete kapılma",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sinirlilik",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Boğuluyormuş gibi olma duygusu",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ellerde titreme",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Titreklik",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kontrolü kaybetme korkusu",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Nefes almada güçlük",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ölüm korkusu",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Korkuya kapılma",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Midede hazımsızlık ya da rahatsızlık hissi",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Baygınlık, sersemlik",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yüzün kızarması",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Terleme (sıcaklığa bağlı olmayan)",
+				"konu":"Son bir hafta içinde;",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif (Beni pek etkilemedi)",
+						"point": 1
+					},
+					{
+						"secenek": "Orta (Hoş değildi ama katlanabildim)",
+						"point": 2
+					},
+					{
+						"secenek": "Ciddi (Dayanmakta çok zorlandım)",
+						"point": 3
+					}
+				]
+			}
+		]		
+	}

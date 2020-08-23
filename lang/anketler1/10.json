@@ -1,0 +1,927 @@
+{
+		"id": 10,
+		"anket_adi": "Durumluluk  ve Sürekli Kaygı Envanteri",
+		"aciklama":"",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Şu anda sakinim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi emniyette hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda sinirlerim gergin.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Pişmanlık duygusu içindeyim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda huzur içindeyim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda hiç keyfim yok.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Başıma geleceklerden endişe ediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi dinlenmiş hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda kaygılıyım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi rahat hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point":3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendime güvenim var.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda asabım bozuk.",
+				"konu":"Temizlik",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çok siniriliyim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sinirlerimin çok gergin olduğunu hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi rahatlamış hissediyorum. ",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda halimden memnunum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda endişeliyim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Heyecandan kendimi şaşkına dönmüş hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda sevinçliyim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anda keyfim yerinde.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz",
+						"point": 2
+					},
+					{
+						"secenek": "Çok",
+						"point": 3
+					},
+					{
+						"secenek": "Tamamiyle",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle keyfim yerindedir.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle çabuk yorulurum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle kolay ağlarım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Başkaları kadar mutlu olmak isterim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çabuk karar veremediğim için fırsatları kaçırırım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kendimi dinlenmiş hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle sakin, kendine hakim ve soğukkanlıyım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Güçlüklerin yenemeyeceğim kadar birikmiş hissederim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Önemsiz şeyler hakkında endişelenirim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle mutluyum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Her şeyi ciddiye alır ve endişelenirim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				] 
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle kendime güvenim yoktur.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle kendimi emniyette hissederim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sıkıntılı ve güç durumlarla karşılaşmaktan kaçınırım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle kendimi hüzünlü hissederim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Genellikle hayatımdan memnunum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Olur olmaz düşünceler beni rahatsız eder.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hayal kırıklıklarını öylesine ciddiye alırım ki hiç unutamam.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Aklı başında ve kararlı bir insanım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Son zamanlarda kafama takılan konular beni tedirgin ediyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hemen hemen hiçbir zaman",
+						"point": 1
+					},
+					{
+						"secenek": "Bazen",
+						"point": 2
+					},
+					{
+						"secenek": "Çok zaman",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen her zaman",
+						"point": 4
+					}
+				]
+			}
+		]		
+	}

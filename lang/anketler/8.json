@@ -1,0 +1,320 @@
+{
+	"data":{
+		"id": 8,
+		"anket_adi": "Boyun Özürlülük Sorgulama Anketi",
+		"aciklama":"Bu sorgulama formu boyun ağrınızın günlük yaşam aktivitelerinizi yerine getirme yeteneklerinizi nasıl etkilediğini anlamamıza yardımcı olacak şekilde tasarlanmıştır. Lütfen her bölümdeki bir kutucuğu işaretleyiniz. Bir bölümde birden çok yanıtı kendinize yakın hissetseniz bile şu anki durumunuza en yakın olan seçeneği işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Boyunda Ağrı Yoğunluğu",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Şu anda hiç boyun ağrım yok",
+						"point": 0
+					},
+					{
+						"secenek": "Şu anda çok hafif derecede boyun ağrım var",
+						"point": 1
+					},
+					{
+						"secenek": "Boyun ağrım orta derecede ve gelip gidiyor",
+						"point": 2
+					},
+					{
+						"secenek": "Boyun ağrım orta şiddette ve değişkenlik göstermiyor",
+						"point": 3
+					},
+					{
+						"secenek": "Boyun ağrım şiddetli fakat gelip gidiyor",
+						"point": 4
+					},
+					{
+						"secenek": "Boyun ağrım şiddetli ve değişkenlik göstermiyor",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kişisel Bakım (giyinme ve temizlenme)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ek bir ağrıya neden olmadan kendime bakabiliyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Kendime normal olarak bakabiliyorum fakat bu ek bir ağrıya neden oluyor",
+						"point": 1
+					},
+					{
+						"secenek": "Kendi bakımımı yaparken ağrım artıyor, yavaşlıyorum ve dikkatli oluyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Biraz yardıma ihtiyacım var fakat kişisel bakımımın çoğunu yapabiliyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Kişisel bakımım ile ilgili işlerin çoğunda her gün yardıma ihtiyacım var",
+						"point": 4
+					},
+					{
+						"secenek": "Giyinemiyorum. Zorlukla yıkanıyorum ve yataktan çıkmıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yük Kaldırma (boyun ağrınız olmadığı zamanlarda kaldırdığınız ağır yüklere eşit ağırlıkta)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Ek bir ağrı hissetmeden ağır yükleri kaldırabiliyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Ağır yükleri kaldırabiliyorum fakat ek bir ağrıya neden oluyor",
+						"point": 1
+					},
+					{
+						"secenek": "Ağrı yükleri yerden kaldırmama engel oluyor, fakat yükler, örneğin masaüstü gibi uygun bir yere yerleştirilirse kaldırabiliyorum ",
+						"point": 2
+					},
+					{
+						"secenek": "Ağrı ağır yük kaldırmama engel oluyor, fakat hafif ve orta ağırlıkdaki yükler örneğin masaüstü gibi uygun bir yere yerleştirirse kaldırabiliyorum ",
+						"point": 3
+					},
+					{
+						"secenek": "Çok hafif yükleri kaldırabiliyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Hiçbir şeyi kaldıramıyorum ve taşıyamıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Okuma",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç boyun ağrısı hissetmeden istediğim kadar okuyabiliyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Hafif bir boyun ağrısı hissederek istediğim kadar okuyabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Orta derecede boyun ağrısı hissederek istediğim kadar okuyabiliyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Boynumda orta derecede ağrı nedeniyle istediğim kadar okuyamıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Boynumda şiddetli ağrı nedeniyle istediğim kadar okuyamıyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Boyun ağrısı nedeniyle hiç okuyamıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Baş Ağrıları",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç baş ağrım yok", 
+						"point": 0
+					},
+					{
+						"secenek": "Sık olmayan hafif baş ağrılarım var",
+						"point": 1
+					},
+					{
+						"secenek": "Orta derecede baş ağrılarım var ",
+						"point": 2
+					},
+					{
+						"secenek": "Sık gelen orta derecede baş ağrılarım var",
+						"point": 3
+					},
+					{
+						"secenek": "Sık gelen ağır derecede baş ağrılarım var",
+						"point": 4
+					},
+					{
+						"secenek": "Hemen hemen her zaman baş ağrılarım var",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Konsantrasyon",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "İstediğim zaman dikkatimi hiç zorlanmadan istediğim kadar toplayabiliyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Hafifçe zorlanarak dikkatimi toplayabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "istediğim zaman biraz zorlanarak dikkatimi toplayabiliyorum",
+						"point": 2
+					},
+					{
+						"secenek": "istediğim zaman epeyce zorlanarak dikkatimi toplayabiliyorum",
+						"point": 3
+					},
+					{
+						"secenek": "İstediğim zaman dikkatimi toplamakta çok fazla zorlanıyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Dikkatimi hiç toplayamıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İş",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "İstediğim kadar iş yapabilirim",
+						"point": 0
+					},
+					{
+						"secenek": "Her günkü işlerimi yapabilirim, ama daha fazlasını yapamam",
+						"point": 1
+					},
+					{
+						"secenek": "Her günkü işlerimin çoğunu yapabilirim, daha fazlasını yapamam",
+						"point": 2
+					},
+					{
+						"secenek": "Her günki işlerimi yapamam",
+						"point": 3
+					},
+					{
+						"secenek": "Herhangi bir işi zorlukla yapabilirim ",
+						"point": 4
+					},
+					{
+						"secenek": "Hiçbir iş yapamam",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Araba Kullanma",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Boyun ağrısı hissetmeden araba kullanabiliyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Boynumda hafif bir ağrı hissi ile istediğim kadar araba kullanabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Boynumda orta derecede ağrı nedeniyle istediğim kadar araba kullanamıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede bir boyun ağrısı nedeniyle istediğim kadar araba kullanamıyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Boynumda şiddetli ağrı nedeniyle güçlükle araba kullanabiliyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Boyun ağrısı nedeniyle hiç araba kullanamıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Uyku",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Uyku problemim yok",
+						"point": 0
+					},
+					{
+						"secenek": "Uykum çok hafif bozuk (1 saatten az süreyle biraz bozuk)",
+						"point": 1
+					},
+					{
+						"secenek": "Uykum hafif bozuk (1-2 saat uykusuzluk)",
+						"point": 2
+					},
+					{
+						"secenek": "Uykum orta derecede bozuk (2-3 saat kadar süren uykusuzluk)",
+						"point": 3
+					},
+					{
+						"secenek": "Uykum çok bozuk (3-5 saat süreyle uykusuzluk)",
+						"point": 4
+					},
+					{
+						"secenek": "Uykum tamamen bozuk (5-7 saat süresince uykusuzluktur)",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Boş Zaman Aktiviteleri",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Tüm boş zaman aktivitelerine boynumda ağrı hissetmeden katılabiliyorum",
+						"point": 0
+					},
+					{
+						"secenek": "Tüm boş zaman aktivitelerine boynumda biraz ağrı hissederek katılabiliyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Boynumdaki ağrı nedeniyle tüm boş zaman aktivitelerinin bir kısmına katılabiliyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Boynumdaki ağrı nedeniyle boş zaman aktivitelerinin çok az bir kısmına katılabiliyorum",
+						"point": 3
+					},
+					{
+						"secenek": "Boynumdaki ağrı nedeniyle boş zaman aktivitelerine hemen hemen hiç katılamıyorum",
+						"point": 4
+					},
+					{
+						"secenek": "Hiçbir aktiviteye hiçbir şekilde katılamıyorum",
+						"point": 5
+					}
+				]
+			}
+        ]
+    }
+}
+	

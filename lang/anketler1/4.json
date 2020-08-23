@@ -1,0 +1,290 @@
+{
+        "id": 4,
+        "anket_adi": "BASDAI",
+        "aciklama":"Sorularda belirtilen aktiviteleri ne ölçüde yapabildiğinizi göstermek için lütfen çizgi üzerinde sizi en iyi ifade ettiğini düşündüğünüz yeri işaretleyiniz.",
+        "sorular": [
+            {
+                "style": 1,
+                "soru": "Yaşadığınız halsizlik ve yorgunluğunuzun seviyesini genel olarak nasıl tarif edersiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Yok",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "Çok Şiddetli",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Ankilozan Spondilite bağlı yaşadığınız boyun, bel ve kalça ağrınızın seviyesini genel olarak nasıl tarif edersiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Yok",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "Çok Şiddetli",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Boyun, bel ve kalça haricindeki eklemlerdeki ağrı ve şişliğin seviyesini genel olarak nasıl tarif edersiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Yok",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2.",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "Çok Şiddetli",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Herhangi bir vücut bölgenizdeki dokunma ve baskı sonucu oluşan rahatsızlığınızın seviyesini genel olarak nasıl tarif edersiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Yok",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "Çok Şiddetli",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Uyandıktan itibaren olan rahatsızlığınızın seviyesini genel olarak nasıl tarif edersiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Yok",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "Çok Şiddetli",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Uyandıktan itibaren olan sabah tutukluğunuz ne kadar sürede geçmektedir?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "Yok",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Yarım Saat",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "1 Saat",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "1,5 Saat",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "2 Saat",
+                        "point": 10
+                    }
+                ]
+            }
+        ]
+    }
+

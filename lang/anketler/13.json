@@ -1,0 +1,193 @@
+{
+	"data":{
+		"id": 13,
+		"anket_adi": "Epworth Uykuluk Ölçeği",
+		"aciklama":"Son zamanlarda, günlük yaşantınız içinde, aşağıda belirtilen durumlarda hangi sıklıkla uyuklarsınız (buradan yorgun hissetmek değil, uyuklamak veya uyuya kalmak anlaşılmalıdır)? Bu şeylerden birini son zamanlarda yapmamış olsanız bile, böyle bir durumun, sizi nasıl etkileyeceğini düşünmeye çalışarak cevap veriniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Oturmuş bir şeyler okurken?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Televizyon seyrederken?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Toplum içinde hareketsizce otururken (örneğin:herhangi bir toplantıda veya tiyatro gibi yerlerde)?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ara vermeden en az 1 saat süren bir araba yolculuğunda yolcu olarak bulunurken?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Öğleden sonra koşullar uygun olduğunda, dinlenmek için uzanmışken?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Birisiyle oturmuş konuşurken?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Alkol almadığım bir öğle yemeğinden sonra sessizce otururken?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İçinde olduğum araba, trafikte birkaç dakika için durduğunda?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiçbir zaman uyuklamam",
+						"point": 0	
+					},
+					{
+						"secenek": "Nadiren uyuklarım",
+						"point": 1
+					},
+					{
+						"secenek": "Zaman zaman uyuklarım",
+						"point": 2
+					},
+					{
+						"secenek": "Büyük olasılıkla uyuklarım",
+						"point": 3 
+					}
+				]
+			}
+		]		
+	}
+}

@@ -1,0 +1,697 @@
+{
+    "data":{
+        "id": 16,
+        "anket_adi": "Fibromyalji Etki Anketi",
+        "aciklama":"",
+        "sorular": [
+            {
+                "style": 1,
+                "soru": "Alişveriş yapmak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Çamaşır yıkamak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Yemek hazırlamak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Bulaşıkları (tabak, kazan vs.) elde yıkamak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Elektrik süpürgesi ile halı süpürmek",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Yatakları düzenlemek",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Birkaç yüz metre yürümek",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Arkadaş, akraba ziyareti yapmak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Bahçe işleri yapmak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Araba kullanmak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 1,
+                "soru": "Merdiven çıkmak",
+                "konu":"Aşağıdakileri aktiviteleri yapabiliyor musunuz?",
+                "secenekler": [
+                    {
+                        "secenek": "Daima",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "Çoğunlukla",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "Ara sıra",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "Hiçbir zaman",
+                        "point": 3
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Son bir hafta içinde kendinizi kaç gün iyi hissettiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Geçen hafta boyunca kaç gün fibromiyaljiden dolayı iş yapamaz duruma geldiniz?",
+                "konu":"",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "İşe gittiğiniz zaman, ev işlerinizi yaparken ağrı ve diğer yakınmalar iş yapmanızı ne kadar engelledi?",
+                "konu":"0:Engellemdi / 10:Çok Engelledi",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Ağrınızın düzeyi ne kadardı?",
+                "konu":"0:Yoktu / 10: Çok Fazlaydı",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Ne kadar yorgunsunuz?",
+                "konu":"0:Yorgun değilim / 10:Çok Yorgunum",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Sabahları kalktığınızda kendinizi nasıl hissediyorsunuz?",
+                "konu":"0:Dinlenmiş / 10:Çok Yorgun",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Sabah tutukluğunuz ne kadar?",
+                "konu":"0:Hiç yok / 10: Çok Tutuk",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Kendinizi ne kadar sinirli ve gergin hissediyorsunuz?",
+                "konu":"0:Sakin / 10:Çok Sinirli",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            },
+            {
+                "style": 3,
+                "soru": "Kendinizi ne kadar hüzünlü, çökkün, morali bozuk veya depresif hissediyorsunuz?",
+                "konu":"0:Hiç / 10:Çok",
+                "secenekler": [
+                    {
+                        "secenek": "0",
+                        "point": 0
+                    },
+                    {
+                        "secenek": "1",
+                        "point": 1
+                    },
+                    {
+                        "secenek": "2",
+                        "point": 2
+                    },
+                    {
+                        "secenek": "3",
+                        "point": 3
+                    },
+                    {
+                        "secenek": "4",
+                        "point": 4
+                    },
+                    {
+                        "secenek": "5",
+                        "point": 5
+                    },
+                    {
+                        "secenek": "6",
+                        "point": 6
+                    },
+                    {
+                        "secenek": "7",
+                        "point": 7
+                    },
+                    {
+                        "secenek": "8",
+                        "point": 8
+                    },
+                    {
+                        "secenek": "9",
+                        "point": 9
+                    },
+                    {
+                        "secenek": "10",
+                        "point": 10
+                    }
+                ]
+            }
+        ]
+    }
+}

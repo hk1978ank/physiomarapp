@@ -1,0 +1,417 @@
+{
+	"data":{
+		"id": 33,
+		"anket_adi": "Roland Morris Engellilik Anketi",
+		"aciklama":"Bel ağrınız olduğunda her zaman yapmakta olduğunuz bazı işleri yapmakta güçlük çekebilirsiniz. Aşağıdaki listede, bel ağrısı olan kişilerin ifade ettiği bazı yakınmalar bulunmaktadır. Bunlardan bazıları veya hepsi sizin de bel ağrınız yüzünden çekmekte olduğunuz bazı sıkıntıları tanımlıyor olabilir. Aşağıdaki ifadeleri okuyup, her ifade için size uygun olan EVET veya HAYIR cevabını işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden zamanımın büyük çoğunluğunu evde geçiriyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Belimi rahatlatmak için sık sık ayakta duruş, oturuş, yatış şeklimi değiştirmek zorunda kalıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden eskisinden daha yavaş yürüyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden evde yaptığım birçok işi artık yapamıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden merdivenleri çıkarken tırabzanlara tutunuyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden dinlenmek için sık sık uzanıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden sandalyeden kalkarken bir yere tutunmak ihtiyacı duyuyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden bazı işlerimi başkalarına yaptırıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden eskisinden daha yavaş giyiniyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden sadece kısa süre ayakta kalabiliyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden eğilmekten ve çömelmekten kaçınıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden sandalyeden kalkarken zorluk çekiyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Belim hemen hemen her zaman ağırıyor.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden yatakta dönmekte güçlük çekiyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden iştahım azaldı.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden çoraplarımı giymekte zorluk çekiyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden sadece kısa mesafeleri yürüyebiliyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden rahat uyuyamıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Belağrım yüzünden bir başkasının yardımı ile giyiniyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden günün büyük bir kısmını oturarak geçiriyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden evdeki ağır işleri yapmaktan kaçınıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden eskisine göre huzursuz ve sinirliyim.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden merdivenleri her zamankinden daha yavaş çıkıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bel ağrım yüzünden zamanın çoğunu yatakta geçiriyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+										
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+										
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			}
+        ]
+    }
+}

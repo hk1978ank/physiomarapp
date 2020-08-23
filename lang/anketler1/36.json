@@ -1,0 +1,58 @@
+{
+		"id": 36,
+		"anket_adi": "Vizüel Analog Skalası (VAS)",
+		"aciklama":"",
+		"sorular": [
+			{
+				"style": 3,
+				"soru": "Ağrı şiddetinizi ifade eden sayı değerini işaretleyiniz.",
+				"konu":"0=Ağrı Yok 10=Dayanılmaz Ağrı",
+				"secenekler": [
+					{
+						"secenek": "0",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "3",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},
+					{
+						"secenek": "6",
+						"point": 6
+					},
+					{
+						"secenek": "7",
+						"point": 7
+					},
+					{
+						"secenek": "8",
+						"point": 8
+					},
+					{
+						"secenek": "9",
+						"point": 9
+					},
+					{
+						"secenek": "10",
+						"point": 10
+					}
+				]
+			}
+		]
+	}

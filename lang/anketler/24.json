@@ -1,0 +1,215 @@
+{
+	"data":{
+		"id": 24,
+		"anket_adi": "Lequesne Kalça Osteoartriti Şiddet İndeksi",
+		"aciklama":"",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Gece ağrısı (yatak istirahatindeyken)",
+				"konu":"Ağrı veya Rahatsızlık",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 0
+					},
+					{
+						"secenek": "Yalnızca hareketlerle veya belirli pozisyonlarda",
+						"point": 1
+					},
+					{
+						"secenek": "Hareket etmeden bile var",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sabah tutukluğu (ya da giderek azalan ağrı)",
+				"konu":"Ağrı veya Rahatsızlık",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 0
+					},
+					{
+						"secenek": "15 dakikaya kadar",
+						"point": 1
+					},
+					{
+						"secenek": "15 dakikadan daha uzun sürüyor.",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yarım saat ayakta durunca ağrı",
+				"konu":"Ağrı veya Rahatsızlık",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 0
+					},
+					{
+						"secenek": "Var",
+						"point": 1
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yürümekle ağrı",
+				"konu":"Ağrı veya Rahatsızlık",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 0
+					},
+					{
+						"secenek": "Biraz yürüdükten sonra ağrı oluyor.",
+						"point": 1
+					},
+					{
+						"secenek": "Yürür yürümez ağrı oluyor ve yürüdükçe artıyor.",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İki saatten uzun oturunca ağrı-rahatsızlık",
+				"konu":"Ağrı veya Rahatsızlık",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 0
+					},
+					{
+						"secenek": "Var",
+						"point": 1
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "En fazla yürüme mesafesi",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Sınırsız",
+						"point": 0
+					},
+					{
+						"secenek": "1 km'den fazlaama sınırsız değil",
+						"point": 1
+					},
+					{
+						"secenek": "1 km civarı (15 dk içinde)",
+						"point": 2
+					},
+					{
+						"secenek": "500-900 metre (8-15 dk arası sürede)",
+						"point": 3
+					},
+					{
+						"secenek": "300-500 metre (8-15 dk arası sürede)",
+						"point": 4
+					},
+					{
+						"secenek": "100-300 metre (8-15 dk arası sürede)",
+						"point": 5
+					},
+					{
+						"secenek": "100 metreden daha az yürüyebiliyor",
+						"point": 6
+					},
+					{
+						"secenek": "Bir adet değnek-baston-kanedyen kullanıyor.",
+						"point": 1
+					},
+					{
+						"secenek": "İki adet değnek-baston-kanedyen kullanıyor.",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Öne eğilerek çorap giymek",
+				"konu":"Günlük Yaşam Aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Rahat",
+						"point": 0
+					},
+					{
+						"secenek": "Zor",
+						"point": 1
+					},
+					{
+						"secenek": "İmkansız",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yerden bir nesne almak",
+				"konu":"Günlük Yaşam Aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Rahat",
+						"point": 0
+					},
+					{
+						"secenek": "Zor",
+						"point": 1
+					},
+					{
+						"secenek": "İmkansız",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Merdivenlerden inip çıkmak",
+				"konu":"Günlük Yaşam Aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Rahat",
+						"point": 0
+					},
+					{
+						"secenek": "Zor",
+						"point": 1
+					},
+					{
+						"secenek": "İmkansız",
+						"point": 2
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Arabaya binmek, arabadan inmek",
+				"konu":"Günlük Yaşam Aktiviteleri",
+				"secenekler": [
+					{
+						"secenek": "Rahat",
+						"point": 0
+					},
+					{
+						"secenek": "Zor",
+						"point": 1
+					},
+					{
+						"secenek": "İmkansız",
+						"point": 2
+					}
+				]
+			}
+		]		
+	}
+}

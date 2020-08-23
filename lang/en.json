@@ -1,0 +1,115 @@
+{
+  "lang" : "Türkçe",
+
+  "kameradan_cek": "Take New Photo From Camera",
+  "galeriden_sec": "Choose From Gallery",
+  "profil_resmini_nereden_yuklemek": "Where would you like to update your profile picture?",
+
+  "kullanicinizizi_guncellediniz" : "Transaction Successful. Your new username will appear on the system ...",
+  "kullanici_adinda_bir_degisiliklik_yapmadiniz" :"You have not made any changes to your username ...",
+  "bu_kullanici_baska_kullanici_tarafindan_kullanilmaktadir":   "This user is in use by someone else.",
+  "program_adi" : "Counting Dawn - 2020",
+  "yeni_sinav_ekle": "Add New",
+  "tamam": "Tamam",
+  "sinavlarim" : "Target Date",
+  "sinavlarim_ornek_baslik" : "Example Dawn",
+  "duzenle" : "Edit",
+  "sohbet" : "QR Code",
+
+  "gun" : " day ",
+  "saat" : " hours ",
+  "dakika" : " min ",
+  "saniye" : " sec ",
+  "oda" : "Chat room :",
+
+  "kalan_gun" : "Day",
+  "kalan_saat" : "Remaining Hours",
+  "kalan_dakika" : "Remaining Minutes",
+  "kalan_saniye" : "Seconds Remaining",
+  "kalan_milisaniye" : "Remaining Milliseconds",
+  "milisaniyeyi_goster" : "  Show Millisecond",
+
+
+  "sinav_silme_islemi": "Delete",
+  "bu_sinavi_silmek_istiyormusunuz" : " Do you want to delete it?",
+  "sil" : "Delete",
+  "vazgec" : "Cancel",
+  "hata" : "Hata",
+
+  "sinaviniz_basarili_sekilde_silindi":"Deleted",
+  "oturum_acma_sayfasina_git" : "Go to Login Page",
+  "kendi_sinavinizi_olusturabilmeniz" : "Log in to the counter",
+  "sinaviniz_silinir_iken_hata_olustu" : "Error",
+
+  "sinav_islemleri" : "Counter operations",
+  "sinav_adi" : "Name Surname",
+  "sohbet_oda_ismi" : "City",
+  "gosterim_sirasi" : "Gösterim Sırası",
+  "sinav_tarihi" : "Date",
+  "sinav_saati" : "Time",
+
+  "sinav_tarihi_secmek_icin_tiklayin" : "Click to select Date.",
+  "sinav_saati_secmek_icin_tiklayin" : "Click to select Time.",
+
+  "kaydet" : "Save",
+  "guncelle" : "update",
+  "genel" : "general",
+
+  "sinav_adini_yazmadiniz":  "You did not write name and surname",
+  "sohbet_oda_ismi_bos_gecilemez": "City name cannot be empty",
+  "tarih_veya_saat_hatali":  "Date or Time Incorrect ",
+
+  "yardim_sinav_adi" : " will be updated very soon",
+  "yardim_gosterim_sirasi" : " will be updated very soon",
+  "yardim_sohbet_odasi" : " will be updated very soon",
+  "yardim_sinav_adi_yardim" : "will be updated very soon",
+  "yardim_sohbet_odasi_yardim" : "will be updated very soon",
+  "yardim_gosterim_sirasi_yardim" : "will be updated very soon",
+
+
+  "sinav_takvimi" : "Şafak Takvimi",
+  "siralama_yontemi": "Sıralama Yöntemi",
+  "tarihe_gore" : "Tarihe Göre",
+  "sinav_adina_gore" : "Şafak Adına Göre",
+  "cok_yakinda_guncellenecek": "Çok Yakında Güncellenecek",
+  "favoriye_ekle" : "Favariye Ekle",
+  "listeden_cikar" : "Listeden Çıkar",
+
+  "sohbet_odasi" : "Chat Room",
+  "sohbet_hint_text" : "Enter chat room name",
+  "baglan" : "Connect",
+  "lutfen_bekleyin" : "Please wait...",
+
+  "hata_olustu" : "Error",
+  "mesajinizi_yazin" : "Write Your Message",
+  "mesaj_gonderebilmeniz_icin_oturum_acmaniz_gerekli" : "You must log in from the profile page to send a message ...",
+
+  "kullanici_girisi" : "Login",
+  "kullanici_bilginiz" : "Your User Information",
+  "oturum_acin" : "Sign in",
+
+  "google_ile_giris_yap" :  "Sign in with Google",
+  "facebook_ile_giris_yap" : "Login with Facebook",
+  "misafir_olarak_giris_yap" : "Log in as a guest",
+
+  "cikis_yap" : "Logout",
+  "takma_isim" : "Nickname",
+  "bilgileri_guncelle" : "Update Information",
+
+  "sinavlarim_menu" : "Discharge",
+  "sinavlar_menu" : "Sinavlar",
+  "sohbet_menu" : "Chat",
+  "profil_menu" : "Profil",
+  "sayac_menu" : "Fast",
+
+
+  "sinaviniz_basarili_bir_sekilde_olusturuldu" : "Successful",
+  "sinaviniz_basarili_bir_sekilde_guncellendi":"Successful",
+  "uygulamayi_kaptmak_istiyormusunuz":"Do you want to close the application?",
+
+  "uyari" : "Warning",
+  "evet" : "Yes",
+  "hayir" : "No",
+  "son":"son"
+
+}

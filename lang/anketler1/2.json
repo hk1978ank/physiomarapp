@@ -1,0 +1,277 @@
+{
+		"id": 2,
+		"anket_adi": "Ankilozan Spondilit Yaşam Kalitesi Anketi",
+		"aciklama":"Lütfen her soruyu dikkatlice okuyunuz ve sizin şu anki durumunuza en uygun olan tek seçeneği işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 2,
+				"soru": "Hastalığım gidebileceğim yerleri kısıtlıyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bazen içimden ağlamak geliyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Giyinmede zorluk çekiyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Evdeki işleri yapmakta zorlanıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Hastalığımdan dolayı uyumak imkansızdır.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Ailem veya arkadaşlarımla birlikte etkinliklere katılmam çok zor oluyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Her zaman yorgunum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Bir iş yaparken dinlenmek için sık sık ara veriyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Dayanılmaz ağrım var.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Sabahları kendimi toparlayıp güne başlamam uzun süre alıyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Evdeki işleri yapmam imkansız.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Kolayca yoruluyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Kendimi sık sık engellenmiş ve çaresiz hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Her zaman ağrım var.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Hastalığımdan dolayı çok şey kaçırdığımı hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Saçımı yıkamakta zorlanıyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Hastalığım moralimi bozuyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			},
+			{
+				"style": 2,
+				"soru": "Hastalığımın başkalarının planlarını bozmasından endişe ediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Evet",
+						"point": 1
+					},
+					{
+						"secenek": "Hayır",
+						"point": 0
+					}
+				]
+			}
+		]
+	}

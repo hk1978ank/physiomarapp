@@ -1,0 +1,39 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "COVİD",
+			"pdf": "covidFizyoterapist"
+		},
+		{
+			"id": 2,
+			"name": "DİABETUS MELLİTUS",
+			"pdf": "diabetusMellitusFizyoterapist"
+		},
+		{
+			"id": 3,
+			"name": "HİPERTANSİYON",
+			"pdf": "hipertansiyonFizyoterapist"
+		},
+		{
+			"id": 4,
+			"name": "MİYALJİ",
+			"pdf": "miyaljiFizyoterapist"
+		},
+		{
+			"id": 5,
+			"name": "LUMBAL DİSK HERNİSİ",
+			"pdf": "lumbakDiskHernisiFizyoterapist"
+		},
+		{
+			"id": 6,
+			"name": "OSTEOARTRİT",
+			"pdf": "osteoartritFizyoterapist"
+		},
+		{
+			"id": 7,
+			"name": "OSTEOPOROZ",
+			"pdf": "osteoporozFizyoterapist"
+		}
+	]
+}

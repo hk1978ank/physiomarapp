@@ -1,0 +1,569 @@
+{
+	"data":{
+		"id": 21,
+		"anket_adi": "Korku-Kaçınma İnanışlar Anketi",
+		"aciklama":"Burada diğer hastaların kendi ağrılarıyla ilgili bize söyledikleri bazı ifadeler bulunmaktadır. Lütfen her bir ifade için; eğilme, bir objeyi kaldırma, yürüme ya da araba kullanma gibi fiziksel aktivitelerin sırt ağrınızı ne kadar etkilediğini ya da etkileceğini ifade etmek amacıyla 0'dan 6'ya kadar herhangi bir numarayı daire içine alınız",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Ağrım fiziksel aktiviteden kaynaklandı",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Fiziksel aktivite ağrımı daha da kötüleştirir",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Fiziksel aktivite sırtıma zarar verebilir",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrımı daha kötüleştiren (kötüleştirebilen) fiziksel aktiviteleri yapmamalıyım",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrımı daha kötüleştiren (kötüleştirebilen) fiziksel aktiviteleri yapamam",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrım işim ya da işimdeki bir kazadan kaynaklandı",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İşim ağrımı artırdı",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrım için tazminat istemeye hakkım var",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İşim benim için çok ağır",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İşim ağrımı daha da kötüleştirir ya da kötüleştirecek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İşim sırtıma zarar verebilir",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anki ağrımla normal işimi yapmamalıyım",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şu anki ağrımla normal işimi yapamam",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağrım tedavi edilene kadar normal işimi yapamam",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "3 ay içinde normal işime geri döneceğimi sanmıyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bu işe geri dönebileceğimi sanmıyorum",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç katılmıyorum.",
+						"point": 0
+					},
+					{
+						"secenek": "1",
+						"point": 1
+					},
+					{
+						"secenek": "2",
+						"point": 2
+					},
+					{
+						"secenek": "Emin değilim",
+						"point": 3
+					},
+					{
+						"secenek": "4",
+						"point": 4
+					},
+					{
+						"secenek": "5",
+						"point": 5
+					},					
+					{
+						"secenek": "Tamamen katılıyorum",
+						"point": 6
+					}
+				]
+			}
+        ]
+    }
+}

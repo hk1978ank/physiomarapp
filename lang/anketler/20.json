@@ -1,0 +1,850 @@
+{
+	"data":{
+		"id": 20,
+		"anket_adi": "Kol, Omuz ve El Sorunları Anketi (DASH)",
+		"aciklama":"Bu anket bazı bedensel etkinlikleri yerine getirmenizin yanı sıra hastalık belirtilerinizi sormaktadır. Her soruyu son haftadaki durumunuzu göz onüne alarak uygun numarayı yuvarlak içine almak suretiyle cevaplayınız. Son hafta içinde bedensel etkinlikte bulunma fırsatınız olmadıysa lütfen hangi cevabın en doğru olacağına göre en iyi tahmininizi yapınız. Hangi el veya kolunuzun yaralandığını dikkate almadan sadece bedensel etkinliği yapabilme becerinize göre uygun cevabı verin. Lütfen son hafta içindeki aşağıdaki etkinlikleri yapma yeteneğinizi uygun cevabın altındaki numarayı daire içine alarak sıralayınız.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Sıkı kapatılmış ya da yeni bir kavanozu açmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yazı yazmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Anahtarı çevirmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yemek hazırlamak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Zor açılan bir kapıyı iterek açma",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yukarıdaki bir rafa bir şey yerleştirmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağır ev işleri yapmak (duvar, yer silmek, tamirat yapmak vs)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bağ bahçe işleri yapmak, odun kesmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatak yapmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}		
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Alışveriş çantası ya da evrak çantası taşımak ",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağır bir cismi taşımak (4,5 kg'den fazla)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yukarıdaki bir ampulü değiştirmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Saçları yıkamak veya kurulamak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sırtını yıkamak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kazak giymek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yiyecekleri kesmek için bıçak kullanmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Az çaba gerektiren eğlendirici işler (iskambil oynamak örgü örmek vs.)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kolunuzdan, omuzunuzdan veya elinizden güç aldığınız veya darbe vurduğunuz eğlenceye yönelik etkinlikler (önünüzde yerde bulunan bir konserve kutusu veya küçük bir taşa iki elinizle kavradığınz bir sopayla yandan vurmak, tenis oynamak, masa tenisi oynamak)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kolunuzu serbestçe hareket ettirdiğiniz eğlendirici işler (suda taş sektirme, meyve taşlama, çelik çomak oynamak)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ulaşım ihtiyaçlarını kendi başına giderebilmek (bir yerden başka bir yere gitmek)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Cinsel faaliyetler",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorluk",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorluk",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç yapamama",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Son hafta süresince kol omuz ya da el probleminiz aile arkadaşlar, komşular veya gruplarla normal sosyal etkinliklerinize ne ölçüde engel oldu?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Engel yok",
+						"point": 1
+					},
+					{
+						"secenek": "Az engel",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede",
+						"point": 3
+					},
+					{
+						"secenek": "Bir hayli",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Aşırı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Son hafta süresince kol omuz ya da el sorununuz nedeniyle işinizde ya da diğer günlük etkinliklerde kısıtlandınız mı? ",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç kısıtlanmadım",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif",
+						"point": 2
+					},
+					{
+						"secenek": "Orta",
+						"point": 3
+					},
+					{
+						"secenek": "Çok",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç bir şey yapamıyorum",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "El, omuz ya da kol ağrınız",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif",
+						"point": 2
+					},
+					{
+						"secenek": "Orta",
+						"point": 3
+					},
+					{
+						"secenek": "Bir hayli",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Aşırı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Herhangi belirli bir işi yaptığınızda el, omuz ya da kol ağrınız",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif",
+						"point": 2
+					},
+					{
+						"secenek": "Orta",
+						"point": 3
+					},
+					{
+						"secenek": "Bir hayli",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Aşırı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "El, omuz ya da kolunuzdaki karıncalanma(iğnelenme)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif",
+						"point": 2
+					},
+					{
+						"secenek": "Orta",
+						"point": 3
+					},
+					{
+						"secenek": "Bir hayli",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Aşırı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "El, omuz ya da kolunuzdaki güçsüzlük",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif",
+						"point": 2
+					},
+					{
+						"secenek": "Orta",
+						"point": 3
+					},
+					{
+						"secenek": "Bir hayli",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Aşırı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "El, omuz ya da kolunuzdaki hareket zorluğu",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif",
+						"point": 2
+					},
+					{
+						"secenek": "Orta",
+						"point": 3
+					},
+					{
+						"secenek": "Bir hayli",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Aşırı",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Geçen hafta içinde el, omuz ya da kol ağrınız nedeniyle uyumakta ne kadar zorlandınız?",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Zorluk yok",
+						"point": 1
+					},
+					{
+						"secenek": "Hafif derecede zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Orta derecede zorlandım",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk çektim",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Hiç uyuyamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Kol, omuz veya el problemimden dolayı kendimi daha az yeterli, daha az yararlı hissediyor veya kendime daha az güveniyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle hayır",
+						"point": 1
+					},
+					{
+						"secenek": "Katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Kararsızım",
+						"point": 3
+					},
+					{
+						"secenek": "Aşırı zorluk çektim",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Kesinlikle evet",
+						"point": 5
+					}
+				]
+			}
+        ]
+    }
+}
+	

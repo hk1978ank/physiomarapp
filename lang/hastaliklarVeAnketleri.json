@@ -1,0 +1,513 @@
+ [
+		{
+			"id": 1,
+			"name": "Ankilozan Spondilit",
+			"degerlendirme": "ankilozanSpondilitDegerlendirme",
+			"tanim" : "ankilozanSpondilitTanim",
+			"anketler": [
+				        {
+					         "id": 2,
+                   "name" : "Ankilozan Spondilit Yaşam Kalitesi Anketi",
+                   "info": "ASQoL, ankilozan spondilitte yaşam kalitesini değerlendirmek için en fazla kullanılan, geçerliliği ve güvenilirliği olan bir ankettir. 18 sorudan oluşan bu ankette hastalardan her bir soruya evet ya da hayır şeklinde cevap vermesi istenir. Toplam skor 0-18 arasında değişir. Yüksek skorlar yaşam kalitesinde ciddi bozulmalar olduğunu gösterir."
+				        },
+                {
+                    "id": 4,
+                    "name" : "BASDAI",
+                    "info": "Ankilozan Spondilit tanılı hastalarda yorgunluk, spinal ve periferal eklem ağrısı, şişlik ve sabah tutukluğu gibi hastalığa özgü semptomları değerlendirir ve 0-10 arasında değişen bir skor üzerinden yorumlanır. Skorun artması hastalık aktivitesinde artışa ifade eder."
+                },
+                {
+                    "id": 5,
+                    "name" : "BASFI",
+                    "info": "Ankilozan spondilitli hastalarda fonksiyonel durumun belirlenmesi ve takibi için geliştirilmiş, hızlı ve kolay uygulanabilen, değişikliklere duyarlı ve güvenilir bir indekstir. Hastaların eğilme, uzanma, ayakta durma, pozisyon değiştirme, merdiven çıkma, günlük yaşam aktiviteleriyle başa çıkma yeteneklerini değerlendiren 10 sorudan oluşur. Her bir soru için 0-10 cm aralığında VAS kullanılarak toplam alınan skorun 10’a bölünmesiyle sonuç skoru elde edilir."
+                },
+                {
+                    "id": 9,
+                    "name" : "Dougados Fonksiyonel İndeks",
+                    "info": "DFI günlük aktiviteleri yapmada zorluğun derecelendirilmesini sağlayan 20 soruluk bir ankettir. Bu indeks, fonksiyonel azalmanın indeksidir ve ankilozan spondilit değerlendirmesinde eklem hassasiyetini skorlamak için bir sistemdir. Toplam skor 0-40 arasında bir değerdedir. Skorun yüksek olması hastanın fonksiyonlarının kısıtlı olduğunu gösterir."
+                },
+                {
+                    "id": 19,
+                    "name" : "İnflamatuvar Romatizmal Hastalıklarda Korku Değerlendirme Anketi",
+                    "info": "Bu anket inflamatuar romatizmal hastalıklarda korku derecesini belirlemek için kullanılmaktadır. Toplam 10 soru bulunur ve hastanın korku derecesini 1-10 arasında bir sayı değeri olarak ifade etmesi istenir. 10-100 arasında toplam skor elde edilir. Skorun 100’e yaklaşması korku durumunun ciddi olduğunu ifade etmektedir."
+                },
+                {
+                    "id": 34,
+                    "name" : "Sağlık Değerlendirme Anketi",
+                    "info": "Hastanın bir önceki hafta içerisinde günlük işler, doğrulma, yemek yeme, yürüme, hijyen, uzanma, kavrama ve giyinip kuşanma gibi günlük yaşam aktiviteleri için durumuna en uygun olan cevabı işaretlemesi üzerine oluşturulmuş sağlık değerlendirme anketidir. Toplam skor 0-60 arasında olmalıdır. Yüksek puan düşük sağlık durumunu gösterir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+			]
+		},
+		{
+            "id": 2,
+            "name": "Bel Bölgesi Problemleri",
+            "degerlendirme": "belBolgesiProblemleriDegerlendirme",
+            "tanim" : "belBolgesiProblemleriTanim",
+            "anketler": [
+                {
+                    "id": 21,
+                    "name" : "Korku-Kaçınma İnanışlar Anketi",
+                    "info": "Eğilme, bir objeyi kaldırma, yürüme ya da araba kullanma gibi fiziksel aktivitelerin hastanın bel-sırt ağrısını ne derece etkilediğini öğrenmek için kullanılan bir ankettir. 16 adet soru bulunmakta ve 0-6 arasında puanlama yapılmaktadır. Toplam skor 0-96 arasında bir değerde olmalıdır. Toplam skorun yükselmesi hastanın durumunun kötü olduğunu gösterir."
+                },
+                {
+                    "id": 31,
+                    "name" : "QEBEC Bel Ağrısı Engellilik Skalası",
+                    "info": "Bu anket hastanın bel ağrısının günlük hayatını ne derece etkilediğini anlamamızı sağlamaktadır. 20 sorudan oluşmaktadır. 0-100 arasında toplam skor elde edilir. Toplam skorun yüksek olması hastanın bel ağrısının günlük yaşam aktivitelerini olumsuz etkilediği anlamına gelmektedir."
+                },
+                {
+                    "id": 32,
+                    "name" : "Revize Oswestry Bel Ağrısı Engellilik Anketi",
+                    "info": "Bu test bel veya bacak yakınmalarının hastanın günlük hayatını ne derece etkilediği hakkında bilgi vermektedir. 10 sorudan oluşmaktadır. Sorular 6 şıktan oluşmuştur ve 0-5 puan arasında değer alırlar. Maksimum skor 50’dir. Toplam skorun yüksek olması hastanın ağrıları sebebiyle günlük yaşam aktivitelerinde zorluk yaşadığını göstermektedir.\n\n%0 ile %20 - önemli bir problem oluşturmuyor.\n%20 ile %40 - Bel ağrısı hastanın günlük yaşamını hafif derecede kısıtlıyor.\n %40 ile %60 - Bel ağrısı hastanın günlük yaşamını ileri derecede kısıtlıyor.\n %60%ile %80 - Bel ağrısı nedeniyle hastanın günlük yaşamı tamamen kısıtlıyor.\n %80 ile %100 - Yatağa bağımlı hasta (veya semptomlar abartılıyor) şeklinde yorumlanmalıdır."
+                },
+                {
+                    "id": 33,
+                    "name" : "Roland Morris Engellilik Anketi",
+                    "info": "Bu ankette hastanın bel ağrısından kaynaklı çekmekte olduğu bazı sıkıntıları tanımlamaktadır. 24 sorudan oluşmaktadır. 0-24 arasında toplam skor elde edilir. Toplam skorun yüksek olması hastanın bel ağrısının günlük yaşamını zorlaştırdığını göstermektedir. EVET veya HAYIR cevabı verilerek her soru cevaplanmalıdır."
+                    
+                },
+                {
+                    "id": 35,
+                    "name" : "Tampa Kinezyofobi Ölçeği",
+                    "info": "Hastalarda sağlık durumlarının hareket etme korkusu yaratıp yaratmadığını sorgulayan bir ankettir. 17 sorudan oluşmaktadır. Puanın yüksek olması kişinin kinezyofobisinin yüksek olduğu anlamına gelir. Toplam puan (17-68) aralığındadır. "
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Boyun Bölgesi Problemleri",
+            "degerlendirme": "boyunBolgesiProblemleriDegerlendirme",
+            "tanim" : "boyunBolgesiProblemleriTanim",
+            "anketler": [
+                {
+                    "id": 1,
+                    "name" : "Algılanan Stres Ölçeği",
+                    "info": "Anket  14 maddeden oluşur ve bireyin yaşamında gelişen bazı durumları ne kadar stresli algıladığını ölçmek için kullanılır. Ölçekteki yüksek puan bireyin stres algısının yüksek olmasını ifade eder. Toplam skor  11-56 aralığındadır.\n\nYorumlamada;\n\n0-11 puan normal\n11-26 puan düşük stres düzeyini\n27-41 puan orta stres düzeyini\n42-56 puan yüksek stres düzeyini göstermektedir."
+                    
+                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                    
+                },
+                {
+                    "id": 8,
+                    "name" : "Boyun Özürlülük Sorgulama Anketi",
+                    "info": "Bu sorgulama formu hastanın boyun ağrısının günlük yaşam aktivitelerini yerine getirme yeteneklerini nasıl etkilediğini anlamamızı sağlayacak şekilde tasarlanmıştır. 10 sorudan oluşmaktadır. Toplam skor 0-50 arasında olmalıdır. Toplam skorun yüksek olması boyun ağrılarının günlük yaşam aktivitelerini olumsuz etkilediğini ifade etmektedir.\n\n0-4: özürlülük yok\n5-14: Hafif özürlülük\n15-24: Orta derecede özürlülük\n25-34: Şiddetli özürlülük\n35 ve üzeri: Tamamen özürlülük şeklinde yorumlanmalıdır."
+                },
+                {
+                    "id": 25,
+                    "name" : "Nottingham Genişletilmiş Günlük Yaşam Aktiviteleri İndeksi",
+                    "info": "Bu anket kişilerin günlük yaşam aktivitelerini yaparken ne derece zorluk yaşadığını anlamamıza yardımcı olacak şekilde tasarlanmıştır. 22 sorudan oluşan bu ankette toplam skor 0-66 arasında olmalıdır. Toplam skorun düşük olması kişinin günlük yaşam aktivitelerini gerçekleştirirken zorluk yaşadığını ifade etmektedir."
+                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Brachial Pleksus",
+            "degerlendirme": "brachialPleksusDegerlendirme",
+            "tanim" : "brachialPleksusTanim",
+            "anketler": [
+                {
+                    "id": 6,
+                    "name" : "Beck Anksiyete Ölçeği",
+                    "info": "Beck anksiyete ölçeğindeki sorular anksiyete belirtileri ile ilgilidir. Testi yapan kişi sorulara “hiç, hafif, orta, ciddi” olmak üzere toplam dört seçenekten birini seçerek cevap verir. Seçeneklerin işaretlenmesi son bir hafta göz önünde bulundurularak yapılır.\n\n8-15 puan arası hafif anksiyete belirtileri,\n16-25 puan arası orta düzeyde anksiyete belirtileri,\n26-63 puan arası şiddetle düzeyde anksiyete belirtileri olarak kategorize edilir."                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 10,
+                    "name" : "Durumluluk ve Sürekli Kaygı Envanteri",
+                    "info": "Durumluk- Süreklilik Kaygı Envanteri toplam kırk maddeden oluşan iki ayrı ölçeği içermektedir. Durumluk Kaygı ölçeği bireyin belirli bir anda ve belirli koşullarda kendisini nasıl hissettiğini betimlemesini; içinde bulunduğu duruma ilişkin duygularını dikkate alarak cevaplamasını gerektirir. Sürekli Kaygı Ölçeği ise bireyin genellikle nasıl hissettiğini betimlemesini gerektirir. Puanların yorumlanmasında her iki ölçekten elde edilen toplam puan değeri 20 ila 80 arasında değişir. Büyük puan yüksek kaygı seviyesini, küçük puan düşük kaygı seviyesini belirtir. Belirlenen ortalama puan seviyesi 36 ile 41 arasında değişmektedir."
+                },
+                {
+                    "id": 20,
+                    "name" : "Kol, Omuz ve El Sorunları Anketi",
+                    "info": "Bu anket kol, omuz ve el sorunlarının günlük yaşama olan etkisini sorgulamaktadır. Hastanın bazı bedensel etkinlikleri yerine getirememelerinin yanı sıra hastalık belirtilerini anlamamızı sağlayacaktır. Hasta son 1 hafta içinde yaşamış olduğu zorlukları göz önünde bulundurarak seçimlerini yapmalıdır. Toplamda 30 soru bulunmaktadır. Toplam skor 0-100 arasında değişecektir. Toplam skorun yüksek olması hastalığın günlük yaşamı zorlaştırdığını ifade etmektedir."
+                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Diabetes Mellitus",
+            "degerlendirme": "diabetesMellitusDegerlendirme",
+            "tanim" : "diabetesMellitusTanim",
+            "anketler": [
+                {
+                    "id": 6,
+                    "name" : "Beck Anksiyete Ölçeği",
+                    "info": "Beck anksiyete ölçeğindeki sorular anksiyete belirtileri ile ilgilidir. Testi yapan kişi sorulara “hiç, hafif, orta, ciddi” olmak üzere toplam dört seçenekten birini seçerek cevap verir. Seçeneklerin işaretlenmesi son bir hafta göz önünde bulundurularak yapılır.\n\n8-15 puan arası hafif anksiyete belirtileri,\n16-25 puan arası orta düzeyde anksiyete belirtileri,\n26-63 puan arası şiddetle düzeyde anksiyete belirtileri olarak kategorize edilir."
+                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 14,
+                    "name" : "Ferrans Powers Yaşam Kalitesi Anketi",
+                    "info": "QLI, yaşam kalitesinin kapsamlı bir şekilde değerlendirilebilmesi amacıyla geniş bir kavramsal ve metodolojik temele dayandırılarak geliştirilmiştir.\n\n6’lı Likert ölçeğine göre düzenlenmiş olan QLI, her birinde 33 madde bulunan memnuniyet ve önem sorularının yer aldığı iki bölümden oluşmaktadır.\n\nÖlçeğin beş alt boyutu bulunmaktadır;\n\n1.    Total yaşam kalitesi skoru\n2.    Sağlık ve fonksiyonellik alt kategori skoru\n3.    Sosyal ve ekonomik alt kategori skoru\n4.    Psikolojik/inançsal alt kategori skoru\n5.    Aile alt kategori skoru\n\nHer bir alt boyuta ait puanlar ve toplam ölçek puanı 0- 30 arasında değişmektedir."
+                },
+                {
+                    "id": 15,
+                    "name" : "Ferrans Powers Yaşam Kalitesi Anketi2",
+                    "info": "QLI, yaşam kalitesinin kapsamlı bir şekilde değerlendirilebilmesi amacıyla geniş bir kavramsal ve metodolojik temele dayandırılarak geliştirilmiştir.\n\n6’lı Likert ölçeğine göre düzenlenmiş olan QLI, her birinde 33 madde bulunan memnuniyet ve önem sorularının yer aldığı iki bölümden oluşmaktadır.\n\nÖlçeğin beş alt boyutu bulunmaktadır;\n\n1.    Total yaşam kalitesi skoru\n2.    Sağlık ve fonksiyonellik alt kategori skoru\n3.    Sosyal ve ekonomik alt kategori skoru\n4.    Psikolojik/inançsal alt kategori skoru\n5.    Aile alt kategori skoru\n\nHer bir alt boyuta ait puanlar ve toplam ölçek puanı 0- 30 arasında değişmektedir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Donuk Omuz",
+            "degerlendirme": "donukOmuzDegerlendirme",
+            "tanim" : "donukOmuzTanim",
+            "anketler": [
+                {
+                    "id": 1,
+                    "name" : "Algılanan Stres Ölçeği",
+                    "info": "Anket  14 maddeden oluşur ve bireyin yaşamında gelişen bazı durumları ne kadar stresli algıladığını ölçmek için kullanılır. Ölçekteki yüksek puan bireyin stres algısının yüksek olmasını ifade eder. Toplam skor  11-56 aralığındadır.\n\nYorumlamada;\n\n0-11 puan normal\n11-26 puan düşük stres düzeyini\n27-41 puan orta stres düzeyini\n42-56 puan yüksek stres düzeyini göstermektedir."
+                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 20,
+                    "name" : "Kol, Omuz ve El Sorunları Anketi (DASH)",
+                    "info": "Bu anket kol, omuz ve el sorunlarının günlük yaşama olan etkisini sorgulamaktadır. Hastanın bazı bedensel etkinlikleri yerine getirememelerinin yanı sıra hastalık belirtilerini anlamamızı sağlayacaktır. Hasta son 1 hafta içinde yaşamış olduğu zorlukları göz önünde bulundurarak seçimlerini yapmalıdır. Toplamda 30 soru bulunmaktadır. Toplam skor 0-100 arasında değişecektir. Toplam skorun yüksek olması hastalığın günlük yaşamı zorlaştırdığını ifade etmektedir."
+                },
+                {
+                    "id": 27,
+                    "name" : "Omuz Ağrı ve Disabilite İndeksi (SPADI)",
+                    "info": "Bu form üst ekstremite hastalıklarında hem ağrıyı hem de günlük yaşam aktivitelerini değerlendirmek için kullanılır. 2 bölümden oluşmaktadır. Birinci bölümde 5 soru vardır ve ağrının hangi durumlarda şiddetlendiğini sorgulamaktadır. İkinci bölümde 8 soru vardır ve problemin günlük yaşam aktivitelerini ne derece etkilediğini sorgulamaktadır. Sorulara 0-10 arası değer verilmesi istenmektedir. Toplam skor yüzdesi %0-%100 aralığında olmalıdır. Toplam skor yüzdesinin  yüksek olması hastalığın günlük yaşamı zorlaştırdığını ifade etmektedir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Fibromiyalji Sendromu",
+            "degerlendirme": "fibromiyaljiSendromuDegerlendirme",
+            "tanim" : "fibromiyaljiSendromuTanim",
+            "anketler": [
+                {
+                    "id": 1,
+                    "name" : "Algılanan Stres Ölçeği",
+                    "info": "Anket  14 maddeden oluşur ve bireyin yaşamında gelişen bazı durumları ne kadar stresli algıladığını ölçmek için kullanılır. Ölçekteki yüksek puan bireyin stres algısının yüksek olmasını ifade eder. Toplam skor  11-56 aralığındadır.\n\nYorumlamada;\n\n0-11 puan normal\n11-26 puan düşük stres düzeyini\n27-41 puan orta stres düzeyini\n42-56 puan yüksek stres düzeyini göstermektedir."
+                },
+                {
+                    "id": 6,
+                    "name" : "Beck Anksiyete Ölçeği",
+                    "info": "Beck anksiyete ölçeğindeki sorular anksiyete belirtileri ile ilgilidir. Testi yapan kişi sorulara “hiç, hafif, orta, ciddi” olmak üzere toplam dört seçenekten birini seçerek cevap verir. Seçeneklerin işaretlenmesi son bir hafta göz önünde bulundurularak yapılır.\n\n8-15 puan arası hafif anksiyete belirtileri,\n16-25 puan arası orta düzeyde anksiyete belirtileri,\n26-63 puan arası şiddetle düzeyde anksiyete belirtileri olarak kategorize edilir."
+                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 13,
+                    "name" : "Epworth Uykululuk Ölçeği",
+                    "info": "Gündüz uyku halini göstermekte kullanılan bir testtir.\n\nToplam 8 sorudan oluşur. Her soru hastanın kendisi tarafından 0-3 puan verilecek şekilde doldurulur. Bu ankette hastanın aşırı yorgun olmadığı sıradan bir günde, belli durumlarda uykuya dalma olasılığı sorgulanır.\n\nToplam puan 10 ve üzerinde ise gündüz aşırı uyku halinin varlığına işaret eder.\n\n0-5 puan arası: Normal\n6-10 puan arası: Normal ama artmış gün içi uykululuk\n11-12: Artmış ama ılımlı gün içi uykululuk\n13-15: Artmış, orta derecede gün içi uykululuk\n16-24: Artmış, şiddetli gün içi uykululuk"
+                },
+                {
+                    "id": 16,
+                    "name" : "Fibromiyalji Etki Anketi",
+                    "info": "Bu ölçekte fiziksel fonksiyon, kendini iyi hissetme hali, işe gidememe, işte zorlanma, ağrı, yorgunluk, sabah yorgunluğu, tutukluk, anksiyete ve depresyon olmak üzere 10 ayrı özellik ölçülmektedir.\n\nKendini iyi hissetme özelliği hariç, düşük skorlar iyileşmeyi veya hastalıktan daha az etkilenildiğini gösterir.\n\nMaksimum skor 100’dür. Ortalama bir FM hastası 50 puan alırken, ağır etkilenmiş bir hasta genellikle 70’in üzerinde puan alır."
+                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                },
+                {
+                    "id": 38,
+                    "name" : "Yorgunluk Şiddet Ölçeği",
+                    "info": "Bu anket hastanın son 1 hafta içerisinde ne derece yorgun olduğunu ölçmeyi sağlamaktadır. 9 soru bulunmaktadır ve sorulara 0-7 arası değer verilmesi istenmektedir. Toplam puan 0-7 arasında bir değerde olmalıdır. Toplam puanın yüksek olması kişinin yorgunluk seviyesinin yüksek olduğunu göstermektedir.\n\n<2,8 = yorgunluk yok, >6,1=kronik yorgunluk anlamı taşımaktadır."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Geriatrik Rehabilitasyon",
+            "degerlendirme": "geriatrikRehabilitasyonDegerlendirme",
+            "tanim" : "geriatrikRehabilitasyonTanim",
+            "anketler": [
+                {
+                    "id": 6,
+                    "name" : "Beck Anksiyete Ölçeği",
+                    "info": "Beck anksiyete ölçeğindeki sorular anksiyete belirtileri ile ilgilidir. Testi yapan kişi sorulara “hiç, hafif, orta, ciddi” olmak üzere toplam dört seçenekten birini seçerek cevap verir. Seçeneklerin işaretlenmesi son bir hafta göz önünde bulundurularak yapılır.\n\n8-15 puan arası hafif anksiyete belirtileri,\n16-25 puan arası orta düzeyde anksiyete belirtileri,\n26-63 puan arası şiddetle düzeyde anksiyete belirtileri olarak kategorize edilir."
+                },
+                {
+                    "id": 12,
+                    "name" : "Düşme Etkinlik Ölçeği",
+                    "info": "Bu ölçek, kişilerin günlük işleri düşmeden yapabilmek konusunda kendilerine ne kadar güvendiklerini sorgulayan 10 maddeden oluşur.\n\nKişiler, her soru için güvenli değil anlamında “1” ile çok güvenli anlamında “10” arasında bir puan verir ve toplamda 10 ile 100 arasında bir skor elde edilir.\n\nYüksek skor, kişilerin günlük yaşam aktivitellerini düşmeden yapma konusunda düşük özgüvene sahip olduğunu gösterir. (>70 puan düşme korkusu)"                },
+                {
+                    "id": 17,
+                    "name" : "Geriatrik Depresyon Ölçeği",
+                    "info": "Yaşlı nüfusta depresyon açısından risk altındaki bireylerin ortaya çıkarılmasında yaygın olarak kullanılan bir ölçektir. Özbildirime dayalı 30 sorudan oluşan ölçekte sorular “evet-hayır“ şeklinde cevaplanmaktadır.\n\nPuanlamada,\n\ndepresyon lehine verilen her 27 cevap için 1 puan,\ndepresyon aleyhine verilen cevap için 0 puan verilir.\n\nGDÖ'den alınabilecek en düşük puan 0, en yüksek puan ise 30’dur.\n\n0-10 depresyon yok\n11-13 puan olası depresyon\n14 ve üzerindeki puanlar da kesin depresyon olarak belirlenmiştir."                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hemiplejik Rehabilitasyon",
+            "degerlendirme": "hemiplejikRehabilitasyonDegerlendirme",
+            "tanim" : "hemiplejikRehabilitasyonTanim",
+            "anketler": [
+                {
+                    "id": 6,
+                    "name" : "Beck Anksiyete Ölçeği",
+                    "info": "Beck anksiyete ölçeğindeki sorular anksiyete belirtileri ile ilgilidir. Testi yapan kişi sorulara “hiç, hafif, orta, ciddi” olmak üzere toplam dört seçenekten birini seçerek cevap verir. Seçeneklerin işaretlenmesi son bir hafta göz önünde bulundurularak yapılır.\n\n8-15 puan arası hafif anksiyete belirtileri,\n16-25 puan arası orta düzeyde anksiyete belirtileri,\n26-63 puan arası şiddetle düzeyde anksiyete belirtileri olarak kategorize edilir."
+                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 10,
+                    "name" : "Durumluluk ve Kaygı Envanteri",
+                    "info": "Durumluk- Süreklilik Kaygı Envanteri toplam kırk maddeden oluşan iki ayrı ölçeği içermektedir. Durumluk Kaygı ölçeği bireyin belirli bir anda ve belirli koşullarda kendisini nasıl hissettiğini betimlemesini; içinde bulunduğu duruma ilişkin duygularını dikkate alarak cevaplamasını gerektirir. Sürekli Kaygı Ölçeği ise bireyin genellikle nasıl hissettiğini betimlemesini gerektirir. Puanların yorumlanmasında her iki ölçekten elde edilen toplam puan değeri 20 ila 80 arasında değişir. Büyük puan yüksek kaygı seviyesini, küçük puan düşük kaygı seviyesini belirtir. Belirlenen ortalama puan seviyesi 36 ile 41 arasında değişmektedir."
+                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Multiple Skleroz",
+            "degerlendirme": "multipleSklerozDegerlendirme",
+            "tanim" : "multipleSklerozTanim",
+            "anketler": [
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 18,
+                    "name" : "Hastane Anksiyete ve Depresyon Ölçeği",
+                    "info": "Bu anket bedensel hastalığı olanlarda anksiyete ve depresyonu taramak üzere hazırlanmıştır. Toplamda 14 soru bulunmaktadır. 1-3-5-7-9-11-13. Sorular anksiyete değerlendirmesi yaparken 2-4-6-8-10-12-14. Sorular depresyon değerlendirmesi yapmak için 2 bölümde incelenmiştir. Toplam anksiyete ve depresyon puanları ayrı hesaplanmaktadır.\n\n0-7: Normal\n8-10: Sınırda\n11 ve üzeri: Anormal olarak nitelendirilir."
+                },
+                {
+                    "id": 22,
+                    "name" : "Lawton & Brody Enstrümantal Günlük Yaşam Aktiviteleri Ölçeği",
+                    "info": "Bu indeks telefon kullanma, yemek hazırlama, alışveriş yapma, günlük ev işlerini yapma, çamaşır yıkama, ulaşım aracına binebilme, ilaçları kullanabilme ve para idaresi ile ilgili bilgileri içeren sekiz sorudan oluşmaktadır. Toplam skor 0-8 puan aralığındadır. Düşük skor hastanın daha fazla bağımlı olduğunu göstermektedir."
+                },
+                {
+                    "id": 25,
+                    "name" : "Nottingham Genişletilmiş Günlük Yaşam Aktiviteleri İndeksi",
+                    "info": "Bu anket kişilerin günlük yaşam aktivitelerini yaparken ne derece zorluk yaşadığını anlamamıza yardımcı olacak şekilde tasarlanmıştır. 22 sorudan oluşan bu ankette toplam skor 0-66 arasında olmalıdır. Toplam skorun düşük olması kişinin günlük yaşam aktivitelerini gerçekleştirirken zorluk yaşadığını ifade etmektedir."
+                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Osteoartrit",
+            "degerlendirme": "osteoartritDegerlendirme",
+            "tanim" : "osteoartritTanim",
+            "anketler": [
+                {
+                    "id": 11,
+                    "name" : "Duruöz El İndeksi",
+                    "info": "Anket kişinin günlük yaşam aktiviteleri esnasında hiçbir yardımcı alet kullanmaksızın bir ya da iki elle gerçekleştirilen fonksiyonlarda yaşanan zorlukların derecesini ölçmek için kullanılmaktadır. Toplamda 18 soru bulunmaktadır. Toplam skor 0-90 puan aralığındadır. Bu skorun yüksek olması yaşanan zorluk derecesinin fazla olduğunu göstermektedir."                },
+                {
+                    "id": 23,
+                    "name" : "Lequesne Diz Osteoartriti Şiddet İndeksi",
+                    "info": "Ağrı/rahatsızlık, günlük yaşam aktiviteleri ve maksimum yürüme mesafesi olmak üzere 3 bölümden oluşan 10 maddelik bir ölçektir. "
+                },
+                {
+                    "id": 24,
+                    "name" : "Lequesne Kalça Osteoartriti Şiddet İndeksi",
+                    "info": "Ağrı/rahatsızlık, günlük yaşam aktiviteleri ve maksimum yürüme mesafesi olmak üzere 3 bölümden oluşan 10 maddelik bir ölçektir. "
+                },
+                {
+                    "id": 34,
+                    "name" : "Sağlık Değerlendirme Anketi ",
+                    "info": "Hastanın bir önceki hafta içerisinde günlük işler, doğrulma, yemek yeme, yürüme, hijyen, uzanma, kavrama ve giyinip kuşanma gibi günlük yaşam aktiviteleri için durumuna en uygun olan cevabı işaretlemesi üzerine oluşturulmuş sağlık değerlendirme anketidir. Toplam skor 0-60 arasında olmalıdır. Yüksek puan düşük sağlık durumunu gösterir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                },
+                {
+                    "id": 37,
+                    "name" : "Womac Osteoartrit İndeksi",
+                    "info": "WOMAC OA İndeksi hastanın kendisinin doldurduğu diz ve kalça OA’sının neden olduğu ağrı, tutukluk ve fiziksel fonksiyonların değerlendirildiği hastalığa özgü bir sorgulamaktır.\n\n5’i ağrı, 2’si tutukluk, 17’si fiziksel fonksiyonu değerlendiren toplam 24 sorudan oluşur.\n\nYüksek puanlar hastanın o grupta kötü değerlere sahip olduğunu gösterir.\n\nAlınabilecek maksimum skorlar ağrı alt grubu için 20, tutukluk için 8, fiziksel fonksiyon için 68’dir.\n\nHiç yoksa 0,\nHafif derece 1,\nOrta derece 2,\nŞiddetli-Epey 3,\nÇok şiddetli-Çok çok 4 puanlarını alır."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Osteoporoz",
+            "degerlendirme": "osteoporozDegerlendirme",
+            "tanim" : "osteoporozTanim",
+            "anketler": [
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 25,
+                    "name" : "Nottingham Genişletilmiş Günlük Yaşam Aktiviteleri İndeksi",
+                    "info": "Bu anket kişilerin günlük yaşam aktivitelerini yaparken ne derece zorluk yaşadığını anlamamıza yardımcı olacak şekilde tasarlanmıştır. 22 sorudan oluşan bu ankette toplam skor 0-66 arasında olmalıdır. Toplam skorun düşük olması kişinin günlük yaşam aktivitelerini gerçekleştirirken zorluk yaşadığını ifade etmektedir."
+                },
+                {
+                    "id": 26,
+                    "name" : "Nottingham Sağlık Profili",
+                    "info": "Bu anket sağlıkla ilgili yaşam kalitesini değerlendirmek için kullanılır. Kişilerin günlük hayatta karşılaşabilecekleri sorunlar sıralanmıştır. Eğer hasta bu problemleri yaşıyorsa EVET yaşamıyorsa HAYIR cevabını seçmelidir. Bu anket 2 bölümden oluşmaktadır. Birinci bölüm toplam skoru 600 iken ikinci bölüm toplam skoru 7 dir."
+                },
+                {
+                    "id": 28,
+                    "name" : "Osteoporozda Yaşam Kalitesi Sorgulaması (QUALEFFO-41)",
+                    "info": "QUALEFFO osteoporoz hastalığına spesifik değerlendirme ölçeklerinden biridir. Bu anket ağrı, fiziksel fonksiyon, sosyal fonksiyon, genel sağlık değerlendirmesi ve mental fonksiyon olmak üzere 5 alt gruptan oluşmaktadır ve toplam 41 soru içermektedir. QUALEFFO total ve alt ölçekler bazında 0-100 arası skorlanmakta olup, yüksek skor düşük yaşam kalitesini göstermektedir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Parkinson Hastalığı",
+            "degerlendirme": "parkinsonHastaligiDegerlendirme",
+            "tanim" : "parkinsonHastaligiTanim",
+            "anketler": [
+                {
+                    "id": 6,
+                    "name" : "Beck Anksiyete Ölçeği",
+                    "info": "Beck anksiyete ölçeğindeki sorular anksiyete belirtileri ile ilgilidir. Testi yapan kişi sorulara “hiç, hafif, orta, ciddi” olmak üzere toplam dört seçenekten birini seçerek cevap verir. Seçeneklerin işaretlenmesi son bir hafta göz önünde bulundurularak yapılır.\n\n8-15 puan arası hafif anksiyete belirtileri,\n16-25 puan arası orta düzeyde anksiyete belirtileri,\n26-63 puan arası şiddetle düzeyde anksiyete belirtileri olarak kategorize edilir."
+                },
+                {
+                    "id": 7,
+                    "name" : "Beck Depresyon Ölçeği",
+                    "info": "Bu ölçek depresyon tanısı koyabilmek, şiddetini ölçebilmek ve tedavi sonrası değişimleri değerlendirmek amacıyla kullanılmaktadır. Bu ölçek fiziksel ve duygusal açıdan depresyonu tanımlayarak doğru teşhis yapmamızı sağlar.21 soruluk bir ölçektir. Kişiler toplamda 0-63 arasında değişen bir puan alırlar. Ölçekte sorular 0-3 puan arası değer alır.\n\n0-10 puan arası olan kişiler normal\n11-16 puan arası olan kişilerde hafif duygu durum bozukluğu\n17-20 puan arası olan kişilerde sınırda klinik depresyon\n21-30 puan arasında olan kişilerde orta düzeyde depresyon\n31-40 puan arası olan kişilerde ağır düzeyde depresyon\n40 puan üzeri olan kişiler ise çok ağır depresyon"
+                },
+                {
+                    "id": 29,
+                    "name" : "Parkinson Hastalığı Anketi",
+                    "info": "Ölçekte 8 faktörü kapsayan çoktan seçmeli 39 madde bulunmaktadır. Her bir soru için 0 ile 4 arasında puanlama yapılır.\n\n0: hiçbirzaman,\n1: nadiren,\n2: bazen,\n3: sıklıkla,\n4: her zaman\n\nDüşük puanlar sağlık durumunun daha iyi olduğunu yansıtmaktadır. Yüksek skor, yaşam kalitesindeki kötüleşmeyi ifade etmektedir."
+                },
+                {
+                    "id": 30,
+                    "name" : "Parkinson Yorgunluk Ölçeği",
+                    "info": "PH’ye özgü tek yorgunluk ölçeğidir; yorgunluğun yalnızca fiziksel boyutunu ölçer, zihinsel yorgunluk ile ilgili öge içermez. Yorgunluğun varlığını ve günlük yaşamdaki işlevselliğe etkisini sorgular. PYÖ yorgunluğun tanımlanmasında tavsiye edilmekte, yorgunluk şiddetinin belirlenmesinde önerilmektedir.\n\nUygulanırken hastaların yorgunlukla ilgili ifadelere katılıp katılmamalarına göre yanıt vermeleri istenir. Yüksek değer daha yüksek yorgunluk düzeyini göstermektedir\n\nOrtalama “3,3”ün üzerindeki puanlar yorgun kabul edilir.\n\n1= kesinlikle katılmıyorum\n5= kesinlikle katılıyorum"
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Romatoid Artrit",
+            "degerlendirme": "romatoidArtritDegerlendirme",
+            "tanim" : "romatoidArtritTanim",
+            "anketler": [
+                {
+                    "id": 3,
+                    "name" : "Artritlerde Öz-Etkililik Ölçeği",
+                    "info": "Bu anket artritli hastaların hastalıklarıyla baş etmelerini kolaylaştırmak ve onların öz-etkililik algısını ölçmek amacıyla oluşturulmuştur. Toplamda 20 sorudan oluşmaktadır. Her soru için hastalarda 1-10 arasında bir değer verilmesi istenir. Toplam skor 20-200 arasında olmalıdır. Toplam skorun düşük olması kişinin hastalıkla baş etmekte güçlük çektiğini ifade etmektedir."
+                },
+                {
+                    "id": 11,
+                    "name" : "Duruöz El İndeksi",
+                    "info": "Anket kişinin günlük yaşam aktiviteleri esnasında hiçbir yardımcı alet kullanmaksızın bir ya da iki elle gerçekleştirilen fonksiyonlarda yaşanan zorlukların derecesini ölçmek için kullanılmaktadır. Toplamda 18 soru bulunmaktadır. Toplam skor 0-90 puan aralığındadır. Bu skorun yüksek olması yaşanan zorluk derecesinin fazla olduğunu göstermektedir."
+                },
+                {
+                    "id": 19,
+                    "name" : "İnflamatuvar Romatizmal Hastalıklarda Korku Değerlendirme Anketi",
+                    "info": "Bu anket inflamatuar romatizmal hastalıklarda korku derecesini belirlemek için kullanılmaktadır. Toplam 10 soru bulunur ve hastanın korku derecesini 1-10 arasında bir sayı değeri olarak ifade etmesi istenir. 10-100 arasında toplam skor elde edilir. Skorun 100’e yaklaşması korku durumunun ciddi olduğunu ifade etmektedir."
+                },
+                {
+                    "id": 34,
+                    "name" : "Sağlık Değerlendirme Anketi",
+                    "info": "Hastanın bir önceki hafta içerisinde günlük işler, doğrulma, yemek yeme, yürüme, hijyen, uzanma, kavrama ve giyinip kuşanma gibi günlük yaşam aktiviteleri için durumuna en uygun olan cevabı işaretlemesi üzerine oluşturulmuş sağlık değerlendirme anketidir. Toplam skor 0-60 arasında olmalıdır. Yüksek puan düşük sağlık durumunu gösterir."
+                },
+                {
+                    "id": 36,
+                    "name" : "Vizüel Analog Skalası (VAS)",
+                    "info": "Bu ölçek kişinin ağrı şiddetini tanımlaması için kullanılmaktadır. Hastanın 0-10 puan arasından bir değer seçerek ağrı şiddetini puanlaması  istenir. Skorun yüksek olması hastanın ağrı şiddetinin yüksek olduğunu ifade etmektedir.\n\nAğrı yok: 0\nDayanılmaz ağrı:10 şeklinde ifade edilir."
+                }
+            ]
+        }
+	]

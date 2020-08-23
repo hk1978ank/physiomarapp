@@ -1,0 +1,634 @@
+{
+		"id": 31,
+		"anket_adi": "QEBEC Bel Ağrısı Engellilik Skalası",
+		"aciklama":"Bu anket bel ağrınızın günlük hayatınızı etkileme şekliyle ilgilidir. Bel ağrısı olan insanlar bazı günlük işlerini yapmakta zorlanırlar. Aşağıdaki listede yazılı olan aktivitelerden bel ağrınız nedeniyle yapmakta zorlandıklarınızı bilmek isteriz. Her aktivitenin karşısındaki şıklardan size en uygun olanı işaretleyiniz (hiç birini atlamadan). Bugün için aşağıdaki aktiviteleri bel ağrınız nedeniyle yapmakta zorlanır mısınız?",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Yataktan kalkmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gece boyunca uyumak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatakta dönmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "20-30 dakika ayakta durmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sandalyede birkaç saat oturmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bir kat merdiven çıkmak (9-12 basamak)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "300-400 metre yürümek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Birkaç kilometre yürümek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yüksekteki raflara uzanmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}			
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bir topu atmak-fırlatmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "100 metre kadar koşmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Buzdolabından yiyecek çıkartmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yatağı toplamak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çorap giymek (külotlu çorap)",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Banyoyu temizlemek için eğilmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Sandalyenin yerini değiştirmek",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağır kapıları açıp kapatmak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "İki tane market poşetini taşımak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Ağır bir valizi kaldırıp taşımak",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorlanmadım",
+						"point": 0
+					},
+					{
+						"secenek": "Çok hafif zorlandım",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlandım",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zorlandım",
+						"point": 3
+					},
+					{
+										
+						"secenek": "Çok zorlandım",
+						"point": 4
+					},
+					{
+										
+						"secenek": "Yapamadım",
+						"point": 5
+					}
+				]
+			}
+        ]
+    }

@@ -1,0 +1,439 @@
+{
+		"id": 30,
+		"anket_adi": "Parkinson Yorgunluk Ölçeği",
+		"aciklama":"Yorgunluk ve neden olabileceği etkiyle ilgili bir dizi açıklama aşağıda yazılıdır. Açıklamalar son iki hafta içindeki sizin kendi duygularınızı ve deneyimlerinizi ne kadar iyi tanımlamaktadır. Herbir maddeyi okuyun ve ona ne kadar katıldığınıza ya da katılmadığınıza karar verin. Daha sonra uygun kutucuğu işaretleyin. Herbir madde için yalnızca bir kutucuğu işaretleyin ve hiçbir maddeyi kaçırmamaya çalışın.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Gün boyunca dinlenmek zorundayım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaşamım yorgunluk nedeniyle kısıtlandı.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tanıdığım diğer insanlardan daha çabuk yoruluyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk en kötü üç yakınmamdan biridir.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tamamen bitkin hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk beni sosyalleşmek için isteksiz yapıyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk nedeniyle bir şeyleri yapmam daha uzun sürüyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Üzerimde bir ağırlık hissi var.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Eğer çok yorgun olmasaydım daha çok şey yapabilirdim.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yaptığım her şey için çaba göstermek zorundayım.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çoğu zaman yorgun hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Tamamen tükenmiş hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yorgunluk günlük etkinliklerle başa çıkmamı zorlaştırıyor.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Hiçbir şey yapmadığım zaman bile yorgun hissediyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gün içinde yorgunluk nedeniyle yapmak istediğimden daha azını yapabiliyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Nerede olursam olayım yatmak isteyecek kadar çok yoruluyorum.",
+				"konu":"",
+				"secenekler": [
+					{
+						"secenek": "Kesinlikle katılmıyorum",
+						"point": 0	
+					},
+					{
+						"secenek": "katılmıyorum",
+						"point": 1
+					},
+					{
+						"secenek": "Ne katılıyorum ne de katılmıyorum",
+						"point": 2
+					},
+					{
+						"secenek": "Katılıyorum",
+						"point": 3 
+					},
+					{
+						"secenek": "Kesinlikle katılıyorum",
+						"point": 4
+					}
+				]
+			}
+		]		
+	}

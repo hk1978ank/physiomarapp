@@ -1,0 +1,567 @@
+{
+	"data":{
+		"id": 11,
+		"anket_adi": "Duruöz El İndeksi",
+		"aciklama":"Aşağıdaki günlük etkinlikleri hiçbir yardımcı alet kullanmadan (bir veya iki elinizle) gerçekleştirdiğinizde karşılaştığınız zorluk derecesini belirten cevabı lütfen işaretleyiniz.",
+		"sorular": [
+			{
+				"style": 1,
+				"soru": "Dolu bir kaseyi tutabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dolu bir şişeyi tutup kaldırabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Dolu bir tabağı tutabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Şişedeki suyu bardağa boşaltabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Daha önce açılıp kapatılmış kavanozun kapağını açabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Bıçakla et kesebiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Çatalı yiyeceklere etkili olarak batırabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Meyve soyabiliyor musunuz?",
+				"konu":"Mutfakta",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Gömleğinizin düğmelerini ilikleyebiliyor musunuz?",
+				"konu":"Giyim",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Fermuar açıp kapatabiliyor musunuz?",
+				"konu":"Giyim",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yeni diş macunu tüpünü sıkabiliyor musunuz?",
+				"konu":"Temizlik",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Diş fırçanızı etkili olarak tutabiliyor musunuz?",
+				"konu":"Temizlik",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Normal kurşun veya tükenmez kalemle kısa bir cümle yazabiliyor musunuz?",
+				"konu":"İş yerinde",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Normal kurşun veya tükenmez kalemle mektup yazabiliyor musunuz?",
+				"konu":"İş yerinde",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Yuvarlak kapı veya pencere tokmağını çevirebiliyor musunuz?",
+				"konu":"Diğer",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Makasla bir parça kağıt kesebiliyor musunuz?",
+				"konu":"Diğer",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Masanın üzerindeki bozuk parayı alabiliyor musunuz?",
+				"konu":"Diğer",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			},
+			{
+				"style": 1,
+				"soru": "Anahtarı kilitte çevirebiliyor musunuz?",
+				"konu":"Diğer",
+				"secenekler": [
+					{
+						"secenek": "Hiç zorluk çekmeden.",
+						"point": 0
+					},
+					{
+						"secenek": "Çok az zorlukta.",
+						"point": 1
+					},
+					{
+						"secenek": "Biraz zorlukta.",
+						"point": 2
+					},
+					{
+						"secenek": "Oldukça zor.",
+						"point": 3
+					},
+					{
+						"secenek": "Hemen hemen imkansız.",
+						"point": 4
+					},
+					{
+						"secenek": "İmkansız.",
+						"point": 5
+					}
+				]
+			}
+		]
+	}
+}
