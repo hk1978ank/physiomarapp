@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
 
        // title: "Kreş Otomasyon Yazılımı",
         theme: ThemeData(primarySwatch: Colors.blue,
-          hintColor: Colors.black54,
+          //hintColor: Colors.black54,
         ),
         builder: (context, child) =>
             MediaQuery(data: MediaQuery.of(context).copyWith(alwaysUse24HourFormat: true), child: child),
