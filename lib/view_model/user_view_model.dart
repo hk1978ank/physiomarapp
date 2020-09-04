@@ -176,7 +176,7 @@ class UserViewModel
     else
     {
       print("Destek Sağlanmıyor...==========");
-      String jsonString =  await rootBundle.loadString("lang/en.json");
+      String jsonString =  await rootBundle.loadString("lang/tr.json");
       Map<String, dynamic> jsonMap = json.decode(jsonString);
       localizedStringsSET = jsonMap.map((key, value) {
         return MapEntry(key, value.toString());
