@@ -12,12 +12,14 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
   int _cinsiyetE = 1;
   int _cinsiyetK = 0;
 
-  String _adi,_cinsiyet,_email;
+  String _adi,_email;
+  String _cinsiyet ="Erkek";
   String _sifre1,_sifre2;
 
-  int _boy = 0;
-  int _kilo =0;
-  int _yas =0;
+  int _boy;// = 0;
+  int _kilo;// =0;
+  int _yas;// =0;
+
 
   @override
   Widget build(BuildContext context) {
@@ -124,6 +126,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
                 obscureText: true,
                 onChanged: (text)
                 {
+
                   _sifre1 = text;
                   setState(() {
 
@@ -132,7 +135,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
                 },
                 decoration: new InputDecoration(
                   hintText: "Şifre",
-                  errorText: (_sifre1!=_sifre2 ) ? "Şifreler Uyumsuz" : (_sifre1==null || _sifre1=="") ? "Şifre Boş Geçilemez" : null,
+                  errorText: (_sifre1!=_sifre2 ) ? "Şifreler Uyumsuz" : (_sifre1==null || _sifre1=="") ? "Şifre Boş Geçilemez" : (_sifre1.length<6) ? "Şifre en az 6 karakter olmalı" : null,
                 ),
               ),
             ),
@@ -149,7 +152,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
 
                 },
                 decoration: new InputDecoration(
-                  errorText: (_sifre1!=_sifre2 ) ? "Şifreler Uyumsuz" : (_sifre2==null || _sifre2=="") ? "Şifre Boş Geçilemez" : null,
+                  errorText: (_sifre1!=_sifre2 ) ? "Şifreler Uyumsuz" : (_sifre2==null || _sifre2=="") ? "Şifre Boş Geçilemez" : (_sifre1.length<6) ? "Şifre en az 6 karakter olmalı" : null,
 
                   hintText: "Şifre Tekrar",
                 ),
@@ -178,7 +181,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
                 },
                 keyboardType: TextInputType.number,
                 decoration: new InputDecoration(
-                  errorText: (_boy<=30 || _boy>250 ) ? "Hatalı Giriş" : null,
+                  errorText: (_boy==null ||_boy<=30 || _boy>250 ) ? "Hatalı Giriş" : null,
                   hintText: "Boyunuz",
                 ),
               ),
@@ -202,7 +205,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
                 },
                 keyboardType: TextInputType.number,
                 decoration: new InputDecoration(
-                  errorText: (_kilo<=3 || _kilo>120 ) ? "Hatalı Giriş" : null,
+                  errorText: (_kilo==null || _kilo<=3 || _kilo>120 ) ? "Hatalı Giriş" : null,
                   hintText: "Kilonuz",
                 ),
               ),
@@ -227,7 +230,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
                 },
                 keyboardType: TextInputType.number,
                 decoration: new InputDecoration(
-                  errorText: (_yas<=3 || _yas>120 ) ? "Hatalı Giriş" : null,
+                  errorText: (_yas==null || _yas<=3 || _yas>120 ) ? "Hatalı Giriş" : null,
                   hintText: "Yaşınız",
                 ),
               ),
@@ -241,6 +244,7 @@ class _YeniKullaniciKayitSayfasiState extends State<YeniKullaniciKayitSayfasi> {
 
   void _kaydet(String adi, String cinsiyet, String email, String sifre1, int boy, int kilo, int yas, BuildContext context) async {
     final _userViewModel = Provider.of<UserViewModel>(context,listen: false);
+    print("Cinsiyet :"+ _cinsiyet);
     //await _userViewModel.createEmailPassword(email, password)
     bool sonuc = await _userViewModel.createHastaPassword(email, sifre1, adi, cinsiyet, yas.toString(), boy.toString(), kilo.toString());
     if(sonuc)

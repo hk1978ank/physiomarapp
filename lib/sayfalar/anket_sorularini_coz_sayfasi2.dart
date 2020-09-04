@@ -87,11 +87,13 @@ class _AnketSorulariniCoz2State extends State<AnketSorulariniCoz2> {
     final List<CoolStep> steps = _anketSorulariniHazirla(_userViewModel.anketSorulariGET, _userViewModel,soruid,cevapid);
 
     final stepper = CoolStepper(
+
       onCompleted: () {
         print("Steps completed!");
       },
       steps: steps,
       config: CoolStepperConfig(
+
         backText: "Geri",
         nextText: "İleri",
         //icon: Icon(Icons.arrow_back),
@@ -129,7 +131,14 @@ class _AnketSorulariniCoz2State extends State<AnketSorulariniCoz2> {
         ],
       ),
       body: Container(
-        child: stepper,
+          child: stepper,
+        //child: stepper,
+      ),
+      bottomNavigationBar: Container(
+        child: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: Text(_userViewModel.anketSorulariGET.data.aciklama,style: TextStyle(fontSize: 16,color: Colors.black),),
+        ),
       ),
     );
   }
@@ -194,7 +203,6 @@ class _AnketSorulariniCoz2State extends State<AnketSorulariniCoz2> {
     List<CoolStep> soruListem = new List<CoolStep>();
     soruid=0;
     anketSorulari.data.sorular.forEach((soru) {
-
       print("Buradayız2222..");
       var coolstep = CoolStep(
         title: "Soru",
@@ -335,7 +343,7 @@ setState(() {
      var sonuc = await PlatformDuyarliAlertDialog(
        anaButonYazisi: "Evet",
        iptalButonYazisi: "Hayır",
-       icerik: "Anketiniz doktorunuza gönderilecek. Bu işlemin geri dönüşü yoktur. Onaylıyormusunuz?",
+       icerik: "Anketiniz fizyoterapistinize gönderilecek. Bu işlemin geri dönüşü yoktur. Onaylıyormusunuz?",
        baslik: "Dikkat",
      ).goster(context);
 
@@ -347,7 +355,7 @@ setState(() {
              {
                PlatformDuyarliAlertDialog(
                  baslik: "Kayıt İşlemi",
-                 icerik: "Anketiniz başarılı şekilde doktorunuza gönderildi.",
+                 icerik: "Anketiniz başarılı şekilde fizyoterapistinize gönderildi.",
                  anaButonYazisi: "Tamam",
 
                ).goster(context).then((value) async {

@@ -65,7 +65,7 @@ class _QRCodeOlusturState extends State<QRCodeOlustur> {
                   SizedBox(
                     height: 8,
                   ),
-                  Text("Oluşturulan Kodu Doktorunuza Gösteriniz"),
+                  Text("Oluşturulan Kodu Fizyoterapiste Gösteriniz"),
                   SizedBox(
                     height: 9,
                   ),
